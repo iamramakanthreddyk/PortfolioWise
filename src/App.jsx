@@ -112,16 +112,16 @@ export default function App() {
           <Uploader onLoad={handleUpload} />
           {showData && (
             <>
-              <Filters filters={filters} onChange={setFilters} />
-              <Assumptions opts={opts} onChange={setOpts} />
               <Summary summary={summary} />
-              <Derivation summary={summary} />
-              <Insights summary={summary} />
-              <Exporter rows={filtered} summary={summary} headers={headers} />
+              <Filters filters={filters} onChange={setFilters} />
               <DataTable rows={filtered} page={page} pageSize={25} onPage={setPage} headers={headers} sort={sort} onSort={(key) => {
                 setSort((prev) => prev.key === key ? { key, dir: prev.dir === 'asc' ? 'desc' : 'asc' } : { key, dir: 'asc' });
                 setPage(1);
               }} />
+              <Assumptions opts={opts} onChange={setOpts} />
+              <Derivation summary={summary} />
+              <Insights summary={summary} />
+              <Exporter rows={filtered} summary={summary} headers={headers} />
             </>
           )}
         </>
