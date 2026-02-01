@@ -7,6 +7,7 @@ import { Derivation } from './components/Derivation.jsx';
 import { Insights } from './components/Insights.jsx';
 import { DataTable } from './components/DataTable.jsx';
 import { Exporter } from './components/Exporter.jsx';
+import { About } from './components/About.jsx';
 import { parseCsv } from './parsers.js';
 import { computeSummary } from './logic.js';
 import { normalizeDate } from './utils.js';
@@ -18,6 +19,7 @@ export default function App() {
   const [page, setPage] = useState(1);
   const [sort, setSort] = useState({ key: '', dir: 'asc' });
   const [platform, setPlatform] = useState('auto');
+  const [activeTab, setActiveTab] = useState('analysis');
   const [opts, setOpts] = useState({
     isCouple: true,
     exemptionAlreadyUsed: 0,
@@ -65,10 +67,10 @@ export default function App() {
       <section className="hero">
         <div className="hero-brand">
           <div className="brand-mark">
-            <span>SC</span>
+            <span>PW</span>
           </div>
           <div>
-            <p className="hero-eyebrow">Scalable Capital · Germany</p>
+            <p className="hero-eyebrow">PortfolioWise · Hobby Project</p>
             <h1>Portfolio tax cockpit</h1>
             <p>Upload broker CSVs, audit the withheld tax, and see what the Finanzamt expects in seconds.</p>
           </div>
@@ -78,6 +80,10 @@ export default function App() {
           <span>📄 CSV → insights</span>
           <span>🧮 FIFO-ready logic</span>
         </div>
+        <nav className="hero-nav">
+          <button className={activeTab === 'analysis' ? 'active' : ''} onClick={() => setActiveTab('analysis')}>Analysis</button>
+          <button className={activeTab === 'about' ? 'active' : ''} onClick={() => setActiveTab('about')}>About</button>
+        </nav>
       </section>
 
       <div className="card security-card">
@@ -90,32 +96,38 @@ export default function App() {
         </ul>
       </div>
 
-      <div className="card">
-        <h2>Broker Platform</h2>
-        <p style={{ marginTop: 4, color: '#475569' }}>Select the platform to guide parsing (auto-detect by default).</p>
-        <select value={platform} onChange={(e) => setPlatform(e.target.value)}>
-          <option value="auto">Auto-detect</option>
-          <option value="scalable">Scalable</option>
-          <option value="trade212">Trade212 (future)</option>
-          <option value="unknown">Generic CSV</option>
-        </select>
-      </div>
-
-      <Uploader onLoad={handleUpload} />
-      {showData && (
+      {activeTab === 'analysis' && (
         <>
-          <Filters filters={filters} onChange={setFilters} />
-          <Assumptions opts={opts} onChange={setOpts} />
-          <Summary summary={summary} />
-          <Derivation summary={summary} />
-          <Insights summary={summary} />
-          <Exporter rows={filtered} summary={summary} headers={headers} />
-          <DataTable rows={filtered} page={page} pageSize={25} onPage={setPage} headers={headers} sort={sort} onSort={(key) => {
-            setSort((prev) => prev.key === key ? { key, dir: prev.dir === 'asc' ? 'desc' : 'asc' } : { key, dir: 'asc' });
-            setPage(1);
-          }} />
+          <div className="card">
+            <h2>Broker Platform</h2>
+            <p style={{ marginTop: 4, color: '#475569' }}>Select the platform to guide parsing (auto-detect by default).</p>
+            <select value={platform} onChange={(e) => setPlatform(e.target.value)}>
+              <option value="auto">Auto-detect</option>
+              <option value="scalable">Scalable</option>
+              <option value="trade212">Trade212 (future)</option>
+              <option value="unknown">Generic CSV</option>
+            </select>
+          </div>
+
+          <Uploader onLoad={handleUpload} />
+          {showData && (
+            <>
+              <Filters filters={filters} onChange={setFilters} />
+              <Assumptions opts={opts} onChange={setOpts} />
+              <Summary summary={summary} />
+              <Derivation summary={summary} />
+              <Insights summary={summary} />
+              <Exporter rows={filtered} summary={summary} headers={headers} />
+              <DataTable rows={filtered} page={page} pageSize={25} onPage={setPage} headers={headers} sort={sort} onSort={(key) => {
+                setSort((prev) => prev.key === key ? { key, dir: prev.dir === 'asc' ? 'desc' : 'asc' } : { key, dir: 'asc' });
+                setPage(1);
+              }} />
+            </>
+          )}
         </>
       )}
+
+      {activeTab === 'about' && <About />}
     </div>
   );
 }
