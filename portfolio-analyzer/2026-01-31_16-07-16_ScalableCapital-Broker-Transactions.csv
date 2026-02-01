@@ -1,0 +1,985 @@
+date;time;status;reference;description;assetType;type;isin;shares;price;amount;fee;tax;currency
+2025-12-31;01:00:00;Executed;"KF3I9W3YO4ZDBEFJCHKK9F";"Scalable Capital Broker 2x savings plan";Cash;Deposit;;;;200,00;0,00;;EUR
+2025-12-30;09:04:48;Executed;"SCALexGWZZgsQVU";"Leverage Shares 3x UBER ETP Securities";Security;Sell;XS2337092550;1.000;0,5617;561,70;0,00;0,00;EUR
+2025-12-29;11:51:08;Executed;"SCALzFYPN7CN29m";"Alphabet A";Security;Savings plan;US02079K3059;0,944108;264,80;-249,9997984;0,00;0,00;EUR
+2025-12-29;11:44:00;Executed;"SCALg5p91UunFQt";"Leverage Shares 3x UBER ETP Securities";Security;Savings plan;XS2337092550;885,582713;0,5646;-499,9999997598;0,00;0,00;EUR
+2025-12-29;11:39:00;Executed;"SCALyF2mnGd8oX7";"Leverage Shares 3x Long Gold";Security;Savings plan;XS2472195101;9,681479;51,645;-499,999982955;0,00;0,00;EUR
+2025-12-29;11:23:30;Executed;"SCALwccxTJRodS3";"Leverage Shares 4x Long Semiconductors ETP";Security;Savings plan;XS2779861082;33,507572;7,461;-249,999994692;0,00;0,00;EUR
+2025-12-29;11:13:31;Executed;"SCALU3XSLEaiwyg";"Leverage Shares 3x NVIDIA ETP";Security;Savings plan;XS2820604770;10,085118;49,578;-499,999980204;0,00;0,00;EUR
+2025-12-29;10:35:26;Cancelled;"SCAL1hT6re1Cfv8";"Leverage Shares 3x UBER ETP Securities";Security;Sell;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-12-29;10:32:49;Executed;"SCALa3yG843RuEG";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;100;5,768;576,80;0,00;0,00;EUR
+2025-12-29;10:30:02;Executed;"SCALHf52PZ98fQY";"Leverage Shares 3x UBER ETP Securities";Security;Sell;XS2337092550;1.000;0,5565;556,50;0,00;0,00;EUR
+2025-12-29;09:51:38;Executed;"SCALz6YN3AoGGdn";"Leverage Shares 3x UBER ETP Securities";Security;Sell;XS2337092550;1.000;0,5532;553,20;0,00;-107,53;EUR
+2025-12-29;09:47:16;Executed;"SCALNgyTuYgjtZs";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;20;27,816;556,32;0,00;39,73;EUR
+2025-12-29;09:32:32;Executed;"SCALLx6oQkzxUCM";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;10;27,882;278,82;0,00;22,64;EUR
+2025-12-29;07:33:48;Executed;"SCALqGGaU7TuYFf";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;30;24,968;-749,04;0,00;0,00;EUR
+2025-12-29;01:00:00;Executed;"295908_d33w2jiDjraqDPNad9wEPM";"Meta Platforms A";Cash;Distribution;US30303M1027;;;0,39;0,00;0,17;EUR
+2025-12-24;01:00:00;Executed;"AZJPQCHHE8GRXDW0";"PRIME+ subscription";Cash;Fee;;;;-4,99;0,00;;EUR
+2025-12-24;01:00:00;Executed;"KJOX4V4EQDK1JXPDCQDYQZ";"Scalable Capital Broker 2x savings plan";Cash;Deposit;;;;750,00;0,00;;EUR
+2025-12-23;18:07:39;Executed;"SCALJcz2JZLcEtr";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;20;25,042;500,84;0,00;30,30;EUR
+2025-12-23;01:00:00;Executed;"TIHPF6324WMCLPJO5CQBBD";"Scalable Capital Broker 3x savings plan";Cash;Deposit;;;;1.250,00;0,00;;EUR
+2025-12-22;18:56:50;Executed;"SCALRGXewv2gAUr";"WisdomTree Natural Gas";Security;Buy;JE00BN7KB334;60;4,9232;-295,392;0,00;0,00;EUR
+2025-12-22;08:51:37;Executed;"SCALLRJFvY4ECf4";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;30;23,564;706,92;0,00;14,86;EUR
+2025-12-18;16:16:28;Executed;"SCALTg88DVwkD9V";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;680;0,5397;-366,996;0,00;0,00;EUR
+2025-12-18;16:16:10;Cancelled;"SCALZdDmKYLSUBF";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-12-18;14:34:16;Cancelled;"SCALpko4PDrM36N";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-12-16;17:39:44;Executed;"SCALG3x8NHK3ckX";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;600;0,5679;-340,74;0,00;0,00;EUR
+2025-12-16;10:35:55;Executed;"SCALE28VRK7kPVX";"Amazon.com";Security;Sell;US0231351067;2,876;188,92;543,33392;0,00;0,00;EUR
+2025-12-16;10:35:08;Executed;"SCAL6iTpy2H7Y3e";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;50;6,643;-332,15;0,00;0,00;EUR
+2025-12-16;10:32:44;Executed;"SCALK3GuCsnDRYS";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;10;33,486;-334,86;0,00;0,00;EUR
+2025-12-16;10:28:43;Executed;"SCALyU5rWxVB9WT";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;10;41,134;-411,34;0,00;0,00;EUR
+2025-12-15;21:41:34;Executed;"SCALjR1SyxGfTms";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;6,9035;-690,35;0,00;0,00;EUR
+2025-12-15;21:41:07;Executed;"SCAL5SwRPeYnVTf";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;50;5,654;-282,70;0,00;0,00;EUR
+2025-12-15;21:39:00;Executed;"SCALz9CgXGhit4r";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;500;0,5969;-298,45;0,00;0,00;EUR
+2025-12-15;10:56:42;Executed;"SCALxGjQCwWS6vF";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;50;20,284;-1.014,20;0,00;0,00;EUR
+2025-12-12;19:11:08;Executed;"SCALiYqin2jd3aW";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;35;7,7015;-269,5525;0,00;0,00;EUR
+2025-12-12;18:49:10;Executed;"SCALuf2nDvy3QjY";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;30;19,297;-578,91;0,00;0,00;EUR
+2025-12-12;10:44:14;Executed;"SCALGJA6a8tpq7u";"WisdomTree S&P 500 5x Daily Leveraged";Security;Sell;XS2771643025;20;35,89;717,80;0,00;0,00;EUR
+2025-12-12;10:43:49;Executed;"SCALs9VjGuRvzpq";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;20;20,668;413,36;0,00;0,00;EUR
+2025-12-10;21:16:49;Executed;"SCALeXuGotV3mQt";"Leverage Shares 4x Long Semiconductors ETP";Security;Sell;XS2779861082;35;8,7815;307,3525;0,00;0,00;EUR
+2025-12-09;15:36:19;Executed;"SCALFKrANmY4iR7";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;20;18,092;361,84;0,00;0,00;EUR
+2025-12-08;22:47:29;Executed;"SCALeeKNbJSV9LT";"Leverage Shares 3x AMD ETP";Security;Sell;XS2337090422;700;1,2534;877,38;0,00;0,00;EUR
+2025-12-08;01:00:00;Executed;"5KX6MI";"Migration Cash";Cash;Withdrawal;;;;-3.700,10;0,00;;EUR
+2025-12-08;01:00:00;Executed;"E9QJ7K6CMIYSPDVAWQE2CT";"Scalable Capital Broker withdrawal";Cash;Withdrawal;;;;-2.000,00;0,00;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00BGV5VN51-WDP";"Xtrackers Artificial Intelligence & Big Data (Acc)";Security;Security transfer;IE00BGV5VN51;1,801;155,52;280,09152;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2337090851-WDP";"Leverage Shares 3x Alibaba ETP";Security;Security transfer;XS2337090851;300;6,6275;1.988,25;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2337092550-WDP";"Leverage Shares 3x UBER ETP Securities";Security;Security transfer;XS2337092550;11.250;0,8129;9.145,125;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE0003BJ2JS4-WDP";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Security transfer;IE0003BJ2JS4;97;45,725;4.435,325;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE000I8KRLL9-WDP";"iShares MSCI Global Semiconductors (Acc)";Security;Security transfer;IE000I8KRLL9;100,235;9,472;949,42592;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2757381749-WDP";"Leverage Shares 3x Baidu ETP Securities";Security;Security transfer;XS2757381749;900;6,54;5.886,00;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-EUR-DEPOSIT";"";Cash;Deposit;;;;3.700,10;0,00;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-GB00BNRRF659-WDP";"CoinShares Physical Staked Cardano";Security;Security transfer;GB00BNRRF659;379;0,3934;149,0986;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE000RDRMSD1-WDP";"iShares Blockchain Technology (Acc)";Security;Security transfer;IE000RDRMSD1;21;15,30;321,30;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00B4NCWG09-WDP";"iShares Physical Silver ETC (Acc)";Security;Security transfer;IE00B4NCWG09;1,22;47,872;58,40384;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00B60SX394-WDP";"Invesco MSCI World (Acc)";Security;Security transfer;IE00B60SX394;5,375;119,925;644,596875;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-JE00B2NFTS64-WDP";"WisdomTree Silver 2x Daily Leveraged";Security;Security transfer;JE00B2NFTS64;70;17,551;1.228,57;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-NL0009805522-WDP";"Nebius Group";Security;Security transfer;NL0009805522;14;84,50;1.183,00;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-US26740W1099-WDP";"D-Wave Quantum";Security;Security transfer;US26740W1099;13;23,30;302,90;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2779861082-WDP";"Leverage Shares 4x Long Semiconductors ETP";Security;Security transfer;XS2779861082;435;8,701;3.784,935;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-US5533681012-WDP";"MP Materials Corp";Security;Security transfer;US5533681012;15;53,60;804,00;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-US67066G1040-WDP";"NVIDIA";Security;Security transfer;US67066G1040;5,453;156,72;854,59416;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2472195101-WDP";"Leverage Shares 3x Long Gold";Security;Security transfer;XS2472195101;2;44,59;89,18;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2771643025-WDP";"WisdomTree S&P 500 5x Daily Leveraged";Security;Security transfer;XS2771643025;60;36,45;2.187,00;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2820604770-WDP";"Leverage Shares 3x NVIDIA ETP";Security;Security transfer;XS2820604770;40,722;47,042;1.915,644324;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00BK5BZQ82-WDP";"Leverage Shares 3x Amazon ETP";Security;Security transfer;IE00BK5BZQ82;400;7,3885;2.955,40;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00BMFKG444-WDP";"Xtrackers Nasdaq 100 (Acc)";Security;Security transfer;IE00BMFKG444;10,913;51,15;558,19995;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00BQT3WG13-WDP";"iShares MSCI China A (Acc)";Security;Security transfer;IE00BQT3WG13;7;4,8345;33,8415;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-JE00BN7KB334-WDP";"WisdomTree Natural Gas";Security;Security transfer;JE00BN7KB334;180;6,944;1.249,92;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-US0231351067-WDP";"Amazon.com";Security;Security transfer;US0231351067;2,876;197,22;567,20472;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-US0381692070-WDP";"Applied Digital";Security;Security transfer;US0381692070;27;26,70;720,90;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-US30303M1027-WDP";"Meta Platforms A";Security;Security transfer;US30303M1027;1,263;578,00;730,014;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2399367502-WDP";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Security transfer;XS2399367502;200;7,169;1.433,80;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-CH1102728750-WDP";"21shares Cardano ETP";Security;Security transfer;CH1102728750;227;6,5595;1.489,0065;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00B3WJKG14-WDP";"iShares S&P 500 Information Technology Sector (Acc)";Security;Security transfer;IE00B3WJKG14;5,049;36,495;184,263255;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00B4ND3602-WDP";"iShares Physical Gold ETC";Security;Security transfer;IE00B4ND3602;1,298;70,01;90,87298;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2337090422-WDP";"Leverage Shares 3x AMD ETP";Security;Security transfer;XS2337090422;4.200;1,1528;4.841,76;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-XS2399367254-WDP";"Leverage Shares 3x Long Coinbase (COIN) ETP";Security;Security transfer;XS2399367254;200;2,6614;532,28;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00B5BMR087-WDP";"iShares Core S&P 500 (Acc)";Security;Security transfer;IE00B5BMR087;0,783;631,46;494,43318;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00BK5BZV36-WDP";"Leverage Shares 3x Microsoft ETP";Security;Security transfer;IE00BK5BZV36;30;58,02;1.740,60;;;EUR
+2025-12-06;01:00:00;Executed;"SWITCH-101-d33w2jiDjraqDPNad9wEPM-IE00BK5C1B80-WDP";"Leverage Shares 3x Facebook ETP";Security;Security transfer;IE00BK5C1B80;1.286;6,2725;8.066,435;;;EUR
+2025-12-05;01:00:00;Executed;"ARKA 00869116372";"KKT-Abschluss";Cash;Interest;;;;6,40;0,00;2,28;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595703853";"21shares Cardano ETP";Security;Security transfer;CH1102728750;-227;7,0015;-1.589,3405;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704563";"iShares Core S&P 500 (Acc)";Security;Security transfer;IE00B5BMR087;-0,783;628,92;-492,44436;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704280";"iShares Blockchain Technology (Acc)";Security;Security transfer;IE000RDRMSD1;-21;15,48;-325,08;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595705246";"Xtrackers Nasdaq 100 (Acc)";Security;Security transfer;IE00BMFKG444;-10,913;50,74;-553,72562;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595707231";"WisdomTree S&P 500 5x Daily Leveraged";Security;Security transfer;XS2771643025;-60;35,234;-2.114,04;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595707327";"Leverage Shares 4x Long Semiconductors ETP";Security;Security transfer;XS2779861082;-435;8,235;-3.582,225;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595707511";"Leverage Shares 3x NVIDIA ETP";Security;Security transfer;XS2820604770;-40,722;45,426;-1.849,837572;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704039";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Security transfer;IE0003BJ2JS4;-97;45,50;-4.413,50;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704852";"Leverage Shares 3x Amazon ETP";Security;Security transfer;IE00BK5BZQ82;-400;7,6795;-3.071,80;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595706888";"Leverage Shares 3x Long Coinbase (COIN) ETP";Security;Security transfer;XS2399367254;-200;3,0624;-612,48;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704423";"iShares Physical Silver ETC (Acc)";Security;Security transfer;IE00B4NCWG09;-1,22;46,908;-57,22776;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595705368";"iShares MSCI China A (Acc)";Security;Security transfer;IE00BQT3WG13;-7;4,776;-33,432;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595705807";"Amazon.com";Security;Security transfer;US0231351067;-2,876;195,44;-562,08544;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595706297";"NVIDIA";Security;Security transfer;US67066G1040;-5,453;156,76;-854,81228;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595706044";"Meta Platforms A";Security;Security transfer;US30303M1027;-1,263;571,70;-722,0571;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595706966";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Security transfer;XS2399367502;-200;7,174;-1.434,80;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704356";"iShares S&P 500 Information Technology Sector (Acc)";Security;Security transfer;IE00B3WJKG14;-5,049;36,24;-182,97576;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595705051";"Leverage Shares 3x Facebook ETP";Security;Security transfer;IE00BK5C1B80;-1.286;5,689;-7.316,054;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595705976";"D-Wave Quantum";Security;Security transfer;US26740W1099;-13;24,60;-319,80;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595703970";"CoinShares Physical Staked Cardano";Security;Security transfer;GB00BNRRF659;-379;0,4143;-157,0197;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704677";"Invesco MSCI World (Acc)";Security;Security transfer;IE00B60SX394;-5,375;119,465;-642,124375;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595705711";"Nebius Group";Security;Security transfer;NL0009805522;-14;88,50;-1.239,00;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595705882";"Applied Digital";Security;Security transfer;US0381692070;-27;26,60;-718,20;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595706675";"Leverage Shares 3x UBER ETP Securities";Security;Security transfer;XS2337092550;-11.250;0,8055;-9.061,875;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595705475";"WisdomTree Silver 2x Daily Leveraged";Security;Security transfer;JE00B2NFTS64;-70;16,903;-1.183,21;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595707058";"Leverage Shares 3x Long Gold";Security;Security transfer;XS2472195101;-2;43,00;-86,00;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704166";"iShares MSCI Global Semiconductors (Acc)";Security;Security transfer;IE000I8KRLL9;-100,235;9,455;-947,721925;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704484";"iShares Physical Gold ETC";Security;Security transfer;IE00B4ND3602;-1,298;70,16;-91,06768;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704770";"Xtrackers Artificial Intelligence & Big Data (Acc)";Security;Security transfer;IE00BGV5VN51;-1,801;153,70;-276,8137;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595704947";"Leverage Shares 3x Microsoft ETP";Security;Security transfer;IE00BK5BZV36;-30;57,13;-1.713,90;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595705588";"WisdomTree Natural Gas";Security;Security transfer;JE00BN7KB334;-180;6,5955;-1.187,19;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595706167";"MP Materials Corp";Security;Security transfer;US5533681012;-15;52,60;-789,00;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595706414";"Leverage Shares 3x AMD ETP";Security;Security transfer;XS2337090422;-4.200;1,1595;-4.869,90;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595706560";"Leverage Shares 3x Alibaba ETP";Security;Security transfer;XS2337090851;-300;6,507;-1.952,10;;;EUR
+2025-12-05;01:00:00;Executed;"WWUM 00595707135";"Leverage Shares 3x Baidu ETP Securities";Security;Security transfer;XS2757381749;-900;5,4805;-4.932,45;;;EUR
+2025-12-02;23:20:14;Expired;"SCAL3GmA3EeK3pD";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-12-02;23:08:18;Expired;"SCALLBZHKsiTbes";"Nebius Group";Security;Sell;NL0009805522;0;0,00;0,00;0,00;0,00;EUR
+2025-12-02;12:27:10;Executed;"SCALUb46fbEezXJ";"Leverage Shares 3x Long Coinbase (COIN) ETP";Security;Sell;XS2399367254;120;2,5606;307,272;0,00;0,00;EUR
+2025-12-02;01:00:00;Executed;"AASE 92054532";"";Cash;Taxes;;;;144,06;0,00;;EUR
+2025-12-01;10:33:43;Executed;"SCALjPhXswzfnx7";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;20;17,038;340,76;0,00;27,66;EUR
+2025-12-01;01:00:00;Executed;"AASE 90991922";"Steuerausgleich - Apple Inc. ( US0378331005/EUR )";Cash;Taxes;;;;14,08;0,00;;EUR
+2025-11-28;17:03:34;Executed;"SCALg3B3vdZrmEo";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;30;16,15;484,50;0,00;30,26;EUR
+2025-11-28;13:52:09;Executed;"SCALxP5GiHEngW8";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;30;15,00;450,00;0,00;19,07;EUR
+2025-11-28;10:45:17;Executed;"SCALRrQ7gCkACuf";"WisdomTree S&P 500 5x Daily Leveraged";Security;Sell;XS2771643025;30;35,02;1.050,60;0,00;12,53;EUR
+2025-11-28;09:54:27;Cancelled;"SCALuHghrU5d14e";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;0;0,00;0,00;0,00;0,00;EUR
+2025-11-25;20:15:10;Executed;"SCALURJ2BKdDRoW";"WisdomTree Natural Gas";Security;Buy;JE00BN7KB334;50;6,0055;-300,275;0,00;0,00;EUR
+2025-11-25;15:48:55;Executed;"SCALcbzXhtdnuEw";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;400;0,8574;-342,96;0,00;0,00;EUR
+2025-11-25;15:48:39;Executed;"SCALqownfbLeeRB";"iShares Core S&P 500 (Acc)";Security;Sell;IE00B5BMR087;1;616,92;616,92;0,00;6,36;EUR
+2025-11-25;14:37:53;Executed;"SCALueaQeyvsgwp";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;500;0,9542;-477,10;0,00;0,00;EUR
+2025-11-25;01:00:00;Executed;"965733654";"scalable";Cash;Deposit;;;;1.000,00;0,00;;EUR
+2025-11-25;01:00:00;Executed;"CAYIDAOCJ99VWZS6";"PRIME+ subscription";Cash;Fee;;;;-4,99;0,00;;EUR
+2025-11-24;08:26:09;Executed;"SCALqtzdjJKpZsk";"Leverage Shares 3x Microsoft ETP";Security;Buy;IE00BK5BZV36;5;59,01;-295,05;0,00;0,00;EUR
+2025-11-24;08:25:47;Executed;"SCALJ6TLCTe1mRi";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;50;7,1545;-357,725;0,00;0,00;EUR
+2025-11-24;08:25:24;Cancelled;"SCALs7cneKzKBfp";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-11-24;08:23:40;Executed;"SCALake9nGG2hhz";"Leverage Shares 3x Long Coinbase (COIN) ETP";Security;Buy;XS2399367254;100;2,265;-226,50;0,99;0,00;EUR
+2025-11-24;08:23:21;Executed;"SCALqWgzGqb1wFs";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;500;0,6995;-349,75;0,00;0,00;EUR
+2025-11-24;08:23:01;Executed;"SCALMoTgGZRchbR";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;300;1,0583;-317,49;0,00;0,00;EUR
+2025-11-24;08:22:21;Executed;"SCALEFeqmhH3CMk";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;10;31,256;-312,56;0,00;0,00;EUR
+2025-11-24;01:00:00;Executed;"965712138";"scalable";Cash;Deposit;;;;500,00;0,00;;EUR
+2025-11-21;16:38:15;Executed;"SCALG1C4Kyx6aYW";"NVIDIA";Security;Sell;US67066G1040;5;151,02;755,10;0,00;54,55;EUR
+2025-11-21;15:48:09;Executed;"SCALeVK8ZW5qmdP";"iShares S&P 500 Information Technology Sector (Acc)";Security;Sell;IE00B3WJKG14;32;34,69;1.110,08;0,00;25,58;EUR
+2025-11-21;15:41:49;Executed;"SCALBwktW6WV2wA";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Buy;XS2399367502;50;5,3145;-265,725;0,00;0,00;EUR
+2025-11-21;15:33:15;Executed;"SCALYZC1Qbm4wqW";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;400;1,0498;-419,92;0,00;0,00;EUR
+2025-11-21;11:10:00;Executed;"SCALR4enNorDrnH";"Leverage Shares 3x Long Gold";Security;Sell;XS2472195101;18;39,402;709,236;0,00;5,20;EUR
+2025-11-21;11:07:01;Executed;"SCALxNs2Pauk7cc";"Leverage Shares 3x Microsoft ETP";Security;Buy;IE00BK5BZV36;5;57,24;-286,20;0,00;0,00;EUR
+2025-11-21;11:06:37;Executed;"SCALV8DNtHdQEma";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;10;28,21;-282,10;0,00;0,00;EUR
+2025-11-21;11:05:10;Executed;"SCALsSw7YTcHuXf";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;300;0,9473;-284,19;0,00;0,00;EUR
+2025-11-21;11:04:33;Executed;"SCAL38duGuAY5Cj";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;50;6,4545;-322,725;0,00;0,00;EUR
+2025-11-21;11:04:01;Executed;"SCALpkPB5sDboLq";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;9;40,588;365,292;0,00;1,00;EUR
+2025-11-21;11:03:38;Executed;"SCALM3K5VsxnQGD";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;9;68,235;614,115;0,00;1,59;EUR
+2025-11-21;10:39:14;Executed;"SCALZJwxuzmU89y";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;6;44,99;-269,94;0,00;0,00;EUR
+2025-11-21;10:22:13;Executed;"SCALvwSp73Aihis";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;1.000;0,6609;-660,90;0,00;0,00;EUR
+2025-11-21;10:21:44;Executed;"SCALtp6xpdJPXre";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;55;4,9682;-273,251;0,00;0,00;EUR
+2025-11-20;19:53:32;Executed;"SCALDXWmsJQr5tT";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;500;1,143;-571,50;0,00;0,00;EUR
+2025-11-20;19:52:58;Executed;"SCALtYDx2dY12Vt";"NVIDIA";Security;Sell;US67066G1040;5;157,74;788,70;0,00;58,20;EUR
+2025-11-20;17:58:10;Executed;"SCALgNRNRCYAMEz";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;500;1,2467;-623,35;0,00;0,00;EUR
+2025-11-20;17:42:49;Executed;"SCALWz9MYXm1rgM";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;1.000;0,7308;-730,80;0,00;0,00;EUR
+2025-11-20;17:37:54;Executed;"SCALx54hyFMUSzK";"Xtrackers Artificial Intelligence & Big Data (Acc)";Security;Sell;IE00BGV5VN51;2;150,54;301,08;0,00;4,04;EUR
+2025-11-20;17:35:00;Cancelled;"SCALZiHjmbUwZK2";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-11-20;17:34:40;Cancelled;"SCALgsBezYVyk5a";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-11-20;01:00:00;Executed;"965665373";"scalable";Cash;Deposit;;;;500,00;0,00;;EUR
+2025-11-19;22:47:29;Executed;"SCALGV6xzCSxv22";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;200;1,5095;-301,90;0,00;0,00;EUR
+2025-11-19;13:05:09;Executed;"SCAL8vuWfySfe9L";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;50;14,207;710,35;0,00;35,18;EUR
+2025-11-19;13:02:01;Executed;"SCAL2nNBAGDscry";"Invesco MSCI World (Acc)";Security;Sell;IE00B60SX394;8;116,315;930,52;0,00;20,51;EUR
+2025-11-19;11:41:05;Executed;"SCAL9P59cLDVUSw";"21shares Cardano ETP";Security;Buy;CH1102728750;38;7,385;-280,63;1,93;0,00;EUR
+2025-11-19;11:39:41;Executed;"SCALRdD3jKZRCgy";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;50;7,0705;-353,525;0,00;0,00;EUR
+2025-11-18;17:04:45;Executed;"SCALmW6Y83p9AaA";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;500;0,8182;-409,10;0,00;0,00;EUR
+2025-11-18;12:16:51;Executed;"SCALGScXAXjYoWV";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;10;31,27;-312,70;0,00;0,00;EUR
+2025-11-18;11:17:49;Executed;"SCALLLPp5CdYap5";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;50;6,235;-311,75;0,00;0,00;EUR
+2025-11-18;10:36:50;Executed;"SCALKqcAK46oAZj";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,674;-767,40;0,00;0,00;EUR
+2025-11-18;10:36:29;Executed;"SCAL8dgW6xctQ2Q";"Leverage Shares 3x Microsoft ETP";Security;Buy;IE00BK5BZV36;10;67,76;-677,60;0,00;0,00;EUR
+2025-11-18;08:36:08;Executed;"SCALk53QpJkGxs9";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;500;1,6439;-821,95;0,00;0,00;EUR
+2025-11-18;08:29:36;Executed;"SCALPZwh6bm2Y6f";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;100;5,4875;-548,75;0,00;0,00;EUR
+2025-11-18;08:23:17;Executed;"SCAL8jT7QZd1xWN";"Amazon.com";Security;Sell;US0231351067;3;196,92;590,76;0,00;0,00;EUR
+2025-11-18;08:22:13;Executed;"SCAL8q4shBhJ8DW";"NVIDIA";Security;Sell;US67066G1040;5;157,60;788,00;0,00;55,78;EUR
+2025-11-18;08:21:58;Executed;"SCAL5JB3RB4BqnJ";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;10;40,542;405,42;0,00;0,99;EUR
+2025-11-18;08:21:39;Executed;"SCALrUGDi3dnRu5";"Xtrackers Nasdaq 100 (Acc)";Security;Sell;IE00BMFKG444;10;48,955;489,55;0,00;11,65;EUR
+2025-11-18;08:21:27;Executed;"SCAL1fZsNqkzuZb";"Xtrackers Artificial Intelligence & Big Data (Acc)";Security;Sell;IE00BGV5VN51;6;149,56;897,36;0,00;35,39;EUR
+2025-11-17;20:36:48;Executed;"SCALZmh1nFwX37p";"Leverage Shares 3x Long Coinbase (COIN) ETP";Security;Buy;XS2399367254;50;2,6564;-132,82;0,99;0,00;EUR
+2025-11-14;18:53:56;Executed;"SCALiNT9fhfzReC";"D-Wave Quantum";Security;Buy;US26740W1099;12;20,93;-251,16;0,00;0,00;EUR
+2025-11-14;18:37:02;Executed;"SCALFNAYbmLpj7v";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Buy;XS2399367502;50;6,622;-331,10;0,00;0,00;EUR
+2025-11-14;16:40:25;Executed;"SCAL42bi7wknG2f";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;20;33,12;-662,40;0,00;0,00;EUR
+2025-11-14;16:10:47;Executed;"SCALDXUcTse2ioA";"WisdomTree Natural Gas";Security;Buy;JE00BN7KB334;100;6,1485;-614,85;0,00;0,00;EUR
+2025-11-14;13:31:29;Executed;"SCALJdCc6HPnZiE";"Leverage Shares 3x Long Gold";Security;Sell;XS2472195101;10;41,332;413,32;0,00;1,17;EUR
+2025-11-14;13:31:16;Executed;"SCALdKhk4BMXbs8";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;100;13,908;1.390,80;0,00;55,79;EUR
+2025-11-14;13:17:28;Executed;"SCALR9fRzLcdzRe";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;500;0,8492;-424,60;0,00;0,00;EUR
+2025-11-14;12:19:15;Executed;"SCALN2MPcrML4Qu";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;300;1,7473;-524,19;0,00;0,00;EUR
+2025-11-14;09:44:29;Executed;"SCALXRYc4WDPB1y";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;10;69,79;697,90;0,00;5,86;EUR
+2025-11-14;09:44:10;Executed;"SCALAU214W3VuAJ";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;10;43,372;433,72;0,00;8,46;EUR
+2025-11-14;09:42:25;Executed;"SCALMcKWAjngnAR";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;10;32,57;-325,70;0,00;0,00;EUR
+2025-11-14;09:04:28;Executed;"SCAL17dgFsNPAta";"Leverage Shares 3x Microsoft ETP";Security;Buy;IE00BK5BZV36;5;66,57;-332,85;0,00;0,00;EUR
+2025-11-14;08:07:24;Cancelled;"SCALbSxvXkkys8E";"Xiaomi";Security;Buy;KYG9830T1067;0;0,00;0,00;0,00;0,00;EUR
+2025-11-13;20:37:10;Executed;"SCALfAjrwQUme49";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;50;14,542;-727,10;0,00;0,00;EUR
+2025-11-13;20:21:10;Executed;"SCALzvomso2jXgg";"Applied Digital";Security;Buy;US0381692070;15;19,90;-298,50;0,00;0,00;EUR
+2025-11-13;19:25:55;Executed;"SCALNrP6aZJpkSu";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;40;6,9365;-277,46;0,00;0,00;EUR
+2025-11-13;19:24:30;Executed;"SCALQ8o7aVis3bd";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Buy;IE0003BJ2JS4;7;43,34;-303,38;0,00;0,00;EUR
+2025-11-13;19:23:28;Executed;"SCALzaypsqpVhft";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;20;15,192;-303,84;0,00;0,00;EUR
+2025-11-13;19:21:20;Executed;"SCALTAe7MDWTXGm";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;100;6,306;-630,60;0,00;0,00;EUR
+2025-11-13;19:19:09;Cancelled;"SCALfLhxecLfxHw";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-11-13;16:31:02;Cancelled;"SCALbR1GPhQ9zcA";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-11-13;15:53:36;Executed;"SCALJgXBeTgzZzt";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;40;7,555;-302,20;0,00;0,00;EUR
+2025-11-13;15:51:12;Executed;"SCALdeajLQ2RRAL";"Nebius Group";Security;Buy;NL0009805522;5;75,50;-377,50;0,00;0,00;EUR
+2025-11-13;15:50:49;Executed;"SCALbzwy3pkjrP2";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;5;53,47;-267,35;0,00;0,00;EUR
+2025-11-13;15:48:23;Executed;"SCALqafFXVtFgv6";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;8,8365;-883,65;0,00;0,00;EUR
+2025-11-13;15:34:03;Executed;"SCALKNdB9wcScTY";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;8;54,965;-439,72;0,00;0,00;EUR
+2025-11-13;07:55:17;Executed;"SCALbeVeTX28Rao";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;50;8,3125;415,625;0,00;0,00;EUR
+2025-11-13;01:00:00;Executed;"AASE 88857937";"";Cash;Taxes;;;;10,06;0,00;;EUR
+2025-11-12;19:25:44;Executed;"SCALjGi7qLmVvzU";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;100;15,006;1.500,60;0,00;46,82;EUR
+2025-11-12;18:28:03;Executed;"SCALoPAtEv121AW";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;50;14,864;743,20;0,00;15,33;EUR
+2025-11-12;17:26:51;Executed;"SCALnS5TprCsKkS";"MP Materials Corp";Security;Buy;US5533681012;5;51,00;-255,00;0,00;0,00;EUR
+2025-11-12;17:26:04;Executed;"SCALXHc2sFbMsEN";"Nebius Group";Security;Buy;NL0009805522;4;81,00;-324,00;0,00;0,00;EUR
+2025-11-12;16:47:25;Executed;"SCAL7gVT2LjExk5";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;10;69,995;699,95;0,00;6,41;EUR
+2025-11-12;16:46:40;Executed;"SCALqDyWFTYrLiA";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;20;43,542;870,84;0,00;18,33;EUR
+2025-11-12;16:45:57;Executed;"SCAL3o4H4AxELW5";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;100;5,0885;-508,85;0,00;0,00;EUR
+2025-11-12;16:45:28;Executed;"SCALQHp3rq8JmVj";"Leverage Shares 3x AMD ETP";Security;Sell;XS2337090422;200;2,222;444,40;0,00;26,40;EUR
+2025-11-12;16:13:38;Executed;"SCALsp5sHhro2nL";"Applied Digital";Security;Buy;US0381692070;11;24,40;-268,40;0,00;0,00;EUR
+2025-11-12;16:09:44;Executed;"SCAL5HMKFkn81qw";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;50;6,635;-331,75;0,00;0,00;EUR
+2025-11-12;16:08:49;Executed;"SCALDZMgdZy3NWr";"Leverage Shares 3x AMD ETP";Security;Sell;XS2337090422;500;2,0922;1.046,10;0,00;6,19;EUR
+2025-11-12;15:50:39;Executed;"SCALueua5p2sEuD";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;100;14,40;1.440,00;0,00;8,21;EUR
+2025-11-12;15:32:23;Executed;"SCALjgQVXsJDZcS";"Leverage Shares 3x AMD ETP";Security;Sell;XS2337090422;360;2,0494;737,784;0,00;0,00;EUR
+2025-11-11;21:08:15;Executed;"SCAL7QKNQMeHBoC";"Nebius Group";Security;Buy;NL0009805522;3;87,50;-262,50;0,00;0,00;EUR
+2025-11-10;17:54:20;Executed;"SCALx3TcnsZgJ7D";"MP Materials Corp";Security;Sell;US5533681012;10;55,20;552,00;0,00;1,58;EUR
+2025-11-10;15:47:16;Executed;"SCAL2DzJh9Y21zF";"Leverage Shares 3x Microsoft ETP";Security;Buy;IE00BK5BZV36;5;68,25;-341,25;0,00;0,00;EUR
+2025-11-10;15:45:03;Cancelled;"SCALuYCBY4JymA3";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-11-10;07:56:25;Executed;"SCALUZoCShpvZRA";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;136;5,4045;-735,012;0,00;0,00;EUR
+2025-11-10;07:51:01;Executed;"SCALUyT5TySWgWi";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;200;1,6446;-328,92;0,00;0,00;EUR
+2025-11-07;15:41:32;Executed;"SCALwoBZoqjfKto";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;50;4,989;-249,45;0,99;0,00;EUR
+2025-11-07;13:18:16;Executed;"SCALseahirnh9fs";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;160;1,6399;-262,384;0,00;0,00;EUR
+2025-11-06;18:37:26;Executed;"SCALq4FBFooE9iL";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;5;55,84;-279,20;0,00;0,00;EUR
+2025-11-06;18:28:41;Executed;"SCALzqWwcVqYvM3";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;19;17,398;330,562;0,00;0,00;EUR
+2025-11-06;18:26:30;Executed;"SCAL2YrVEhVU3zk";"Xtrackers Nasdaq 100 (Acc)";Security;Sell;IE00BMFKG444;5;50,30;251,50;0,00;0,85;EUR
+2025-11-06;18:26:06;Executed;"SCALzcTvTD2FTLh";"iShares MSCI Global Semiconductors (Acc)";Security;Sell;IE000I8KRLL9;55;9,263;509,465;0,00;0,00;EUR
+2025-11-06;18:17:40;Executed;"SCALShZP2dUrrdA";"Apple";Security;Sell;US0378331005;4,943;234,30;1.158,1449;0,00;75,97;EUR
+2025-11-06;17:46:08;Executed;"SCALCqXkFdeDRtp";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;5;56,89;-284,45;0,00;0,00;EUR
+2025-11-06;17:42:47;Executed;"SCALydiib8FmkqW";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;200;1,7563;-351,26;0,00;0,00;EUR
+2025-11-06;16:28:03;Cancelled;"SCALLq423yhqyHJ";"Leverage Shares 3x AMD ETP";Security;Sell;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-11-06;15:31:48;Cancelled;"SCALhMrq5SEYazh";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-11-06;12:31:01;Executed;"SCALpFj5dtZAZNM";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;100;5,9955;-599,55;0,00;0,00;EUR
+2025-11-06;11:30:50;Executed;"SCAL1Wo44kvBu2s";"Leverage Shares 3x AMD ETP";Security;Sell;XS2337090422;200;2,2004;440,08;0,00;0,00;EUR
+2025-11-06;10:17:41;Executed;"SCALCcKVphzV5DD";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;50;8,448;422,40;0,00;0,00;EUR
+2025-11-06;09:55:43;Executed;"SCALyinhB7XXaBQ";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;50;8,892;-444,60;0,00;0,00;EUR
+2025-11-06;09:49:59;Executed;"SCALLKLwe9a1zbV";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;10;63,505;-635,05;0,00;0,00;EUR
+2025-11-06;09:38:33;Executed;"SCALKXhhdrD6P6q";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Buy;IE0003BJ2JS4;10;46,12;-461,20;0,00;0,00;EUR
+2025-11-06;09:33:51;Executed;"SCALePYVNxKVQgP";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;100;8,4075;840,75;0,00;0,00;EUR
+2025-11-06;09:11:33;Cancelled;"SCALU8WnRyE6hdu";"Leverage Shares 3x AMD ETP";Security;Sell;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-11-06;08:20:08;Executed;"SCALojzcXAVczfT";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;20;67,575;1.351,50;0,00;0,98;EUR
+2025-11-05;13:06:19;Executed;"SCAL9GZbnrNKWTo";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;150;1,7413;-261,195;0,00;0,00;EUR
+2025-11-05;10:21:41;Executed;"SCALf8wgH8Ewqug";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;10;34,85;-348,50;0,00;0,00;EUR
+2025-11-05;10:19:50;Executed;"SCALKh9AMmNd6vt";"Microsoft";Security;Sell;US5949181045;2;447,15;894,30;0,00;0,00;EUR
+2025-11-05;01:00:00;Executed;"AASE 88025937";"";Cash;Taxes;;;;3,41;0,00;;EUR
+2025-11-04;19:54:18;Executed;"SCALKTfzj26CVjR";"Leverage Shares 3x Long Coinbase (COIN) ETP";Security;Buy;XS2399367254;50;5,0985;-254,925;0,00;0,00;EUR
+2025-11-04;16:19:53;Executed;"SCALQEH7WGXpqjT";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;50;11,795;-589,75;0,00;0,00;EUR
+2025-11-04;15:34:23;Executed;"SCALnPjYCEv74hP";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;20;66,605;1.332,10;0,00;57,37;EUR
+2025-11-04;14:32:32;Executed;"SCALsxHoZb1H7sw";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;500;0,8968;-448,40;0,00;0,00;EUR
+2025-11-04;13:16:21;Executed;"SCALCZYFfu3nKAn";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;500;1,0056;-502,80;0,00;0,00;EUR
+2025-11-04;13:05:10;Executed;"SCALydqqkFuYRV2";"WisdomTree Natural Gas";Security;Sell;JE00BN7KB334;70;5,9185;414,295;0,00;8,40;EUR
+2025-11-04;12:51:42;Executed;"SCALDYtdutSpW2D";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;1.000;1,0456;-1.045,60;0,00;0,00;EUR
+2025-11-04;07:35:07;Executed;"SCALVzKE8JZWyzt";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;100;7,787;-778,70;0,00;0,00;EUR
+2025-11-04;07:34:10;Executed;"SCAL6VeYYwm6XT4";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;1.000;1,16;-1.160,00;0,00;0,00;EUR
+2025-11-04;07:33:35;Executed;"SCALzE4e5uVTdtc";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;100;5,865;-586,50;0,00;0,00;EUR
+2025-11-03;18:06:08;Executed;"SCALFrxKEnxr4Hf";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Buy;IE0003BJ2JS4;10;49,515;-495,15;0,00;0,00;EUR
+2025-11-03;16:57:16;Executed;"SCALAoWCtWndLcD";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;50;9,618;-480,90;0,00;0,00;EUR
+2025-11-03;16:38:22;Executed;"SCAL6pDD1u2KT1k";"21Shares Cardano ETP";Security;Buy;CH1102728750;56;8,7855;-491,988;3,39;0,00;EUR
+2025-11-03;16:23:35;Executed;"SCALva5JJy6kKAp";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;120;2,2084;-265,008;0,00;0,00;EUR
+2025-11-03;15:57:53;Executed;"SCALa4zBhwgRBGi";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Buy;IE0003BJ2JS4;20;51,05;-1.021,00;0,00;0,00;EUR
+2025-11-03;15:57:11;Executed;"SCALH1fWZ1CUQkU";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;1.400;1,0996;-1.539,44;0,00;0,00;EUR
+2025-11-03;15:36:35;Executed;"SCALUhtDqok79NQ";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;100;6,4505;-645,05;0,00;0,00;EUR
+2025-11-03;15:36:00;Executed;"SCAL2LPG7Z7vuba";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;50;11,00;550,00;0,00;60,00;EUR
+2025-11-03;15:34:13;Executed;"SCALftCha5EeWcX";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;200;10,89;2.178,00;0,00;198,84;EUR
+2025-11-03;13:53:57;Executed;"SCALDYk4BjLJWCc";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;500;2,3002;-1.150,10;0,00;0,00;EUR
+2025-11-03;10:55:48;Executed;"SCALFpKbH78x9pe";"Leverage Shares 3x Long Coinbase (COIN) ETP";Security;Buy;XS2399367254;40;6,5025;-260,10;0,00;0,00;EUR
+2025-11-03;10:49:30;Executed;"SCAL8LxwZ4FZfEz";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;100;8,3915;-839,15;0,00;0,00;EUR
+2025-11-03;10:48:41;Executed;"SCALwLfJWU7dLuN";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;120;2,2882;-274,584;0,00;0,00;EUR
+2025-11-03;10:48:19;Executed;"SCAL3hMKrGRHDQo";"Microsoft";Security;Buy;US5949181045;1;450,30;-450,30;0,00;0,00;EUR
+2025-11-03;10:48:09;Executed;"SCAL6UVQiNfBQ6s";"MP Materials Corp";Security;Buy;US5533681012;10;55,40;-554,00;0,00;0,00;EUR
+2025-11-03;09:24:15;Executed;"SCALp6RrVVm3ppA";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;500;1,0753;-537,65;0,00;0,00;EUR
+2025-11-03;07:57:50;Executed;"SCALjHPYhXufNN9";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;50;6,8745;-343,725;0,00;0,00;EUR
+2025-10-31;23:17:46;Expired;"SCAL2EUbHrce4un";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;0;0,00;0,00;0,00;0,00;EUR
+2025-10-31;23:15:25;Expired;"SCALFQNxMvHaJq1";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-10-31;23:15:25;Expired;"SCAL4RGUCduwRvU";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-10-31;23:12:28;Expired;"SCALsyGzkMwzCTs";"Amazon.com";Security;Buy;US0231351067;0;0,00;0,00;0,00;0,00;EUR
+2025-10-31;23:09:14;Expired;"SCALuanxevvGH65";"D-Wave Quantum";Security;Buy;US26740W1099;0;0,00;0,00;0,00;0,00;EUR
+2025-10-31;16:22:58;Executed;"SCAL6z7624UBHg8";"MP Materials Corp";Security;Buy;US5533681012;10;54,60;-546,00;0,00;0,00;EUR
+2025-10-31;15:17:32;Cancelled;"SCAL8kK4cobqYnW";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-10-31;15:14:41;Executed;"SCALDEtXDLqyqzW";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;1.000;1,0798;-1.079,80;0,00;0,00;EUR
+2025-10-31;14:58:46;Cancelled;"SCALs5x2rsPTb8g";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;0;0,00;0,00;0,00;0,00;EUR
+2025-10-31;14:58:37;Executed;"SCALLC6yKre6j8h";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;200;6,526;-1.305,20;0,00;0,00;EUR
+2025-10-31;14:55:07;Executed;"SCALsunKyiDogGt";"Leverage Shares 3x Long Coinbase (COIN) ETP";Security;Buy;XS2399367254;40;6,9615;-278,46;0,00;0,00;EUR
+2025-10-31;14:49:27;Executed;"SCALAoR2UnbuCb8";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;200;6,4915;-1.298,30;0,00;0,00;EUR
+2025-10-31;14:12:00;Executed;"SCALFZGfTCRg5uh";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;100;6,8245;-682,45;0,00;0,00;EUR
+2025-10-31;14:11:08;Executed;"SCALy9XUWrzBsGY";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;60;12,589;-755,34;0,00;0,00;EUR
+2025-10-31;13:23:13;Executed;"SCALRMoztEW3WFL";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;200;10,222;2.044,40;0,00;134,59;EUR
+2025-10-31;13:18:24;Executed;"SCALuRiDyjYsRQB";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;150;10,106;1.515,90;0,00;122,25;EUR
+2025-10-31;13:00:37;Executed;"SCAL3GkAFAa2CuB";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;100;10,024;1.002,40;0,00;78,53;EUR
+2025-10-31;10:04:18;Cancelled;"SCALRKuMj3YAHfq";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-10-31;10:04:00;Executed;"SCALaq6wQXHVVMH";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;100;10,022;1.002,20;0,00;77,86;EUR
+2025-10-31;09:46:02;Executed;"SCALmRcfc5KKZwy";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;100;10,005;1.000,50;0,00;72,13;EUR
+2025-10-31;09:30:29;Executed;"SCALB1RNmppetYv";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;100;10,006;1.000,60;0,00;68,76;EUR
+2025-10-31;09:27:48;Executed;"SCAL2EqAgDqCvTy";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;50;9,891;494,55;0,00;33,39;EUR
+2025-10-31;09:22:36;Executed;"SCALxeUoYttqs64";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;200;9,831;1.966,20;0,00;113,44;EUR
+2025-10-31;09:06:18;Executed;"SCALxqbSY1Zd3t4";"Amazon.com";Security;Sell;US0231351067;3;214,75;644,25;0,00;8,80;EUR
+2025-10-31;08:59:32;Executed;"SCALL9EvyH7SySo";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;100;9,3825;938,25;0,00;28,64;EUR
+2025-10-30;21:47:51;Cancelled;"SCAL8RoUy9EJjLF";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-10-30;17:26:04;Executed;"SCALfrqowT8YnXY";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;100;7,279;-727,90;0,00;0,00;EUR
+2025-10-30;15:26:24;Executed;"SCAL95EJnisz4SK";"Leverage Shares 3x AMD ETP";Security;Buy;XS2337090422;110;2,2834;-251,174;0,00;0,00;EUR
+2025-10-30;15:25:06;Executed;"SCAL7kts6jKdyrV";"Leverage Shares 3x Facebook ETP";Security;Buy;IE00BK5C1B80;100;6,6275;-662,75;0,00;0,00;EUR
+2025-10-30;14:07:15;Executed;"SCALFMv9ELmk5Pk";"21Shares Cardano ETP";Security;Buy;CH1102728750;32;9,8405;-314,896;2,17;0,00;EUR
+2025-10-29;22:26:18;Executed;"SCALVWycvHU8yhz";"Microsoft";Security;Buy;US5949181045;1;456,95;-456,95;0,00;0,00;EUR
+2025-10-29;16:51:11;Executed;"SCALtCajYpoj625";"NVIDIA";Security;Sell;US67066G1040;5;177,16;885,80;0,00;69,61;EUR
+2025-10-28;20:39:13;Executed;"SCALP3dUuY42zs1";"Leverage Shares 3x Long Coinbase (COIN) ETP";Security;Buy;XS2399367254;40;7,872;-314,88;0,00;0,00;EUR
+2025-10-28;19:54:47;Executed;"SCALfVwdUFEYnBA";"NVIDIA";Security;Sell;US67066G1040;5;170,92;854,60;0,00;56,19;EUR
+2025-10-28;19:53:31;Executed;"SCALdSBN6oszozg";"WisdomTree Natural Gas";Security;Buy;JE00BN7KB334;50;5,4335;-271,675;0,00;0,00;EUR
+2025-10-28;19:52:08;Executed;"SCAL1gexNgPruCH";"Leverage Shares 3x NVIDIA ETP";Security;Sell;XS2820604770;4;64,37;257,48;0,00;13,72;EUR
+2025-10-28;18:10:35;Executed;"SCALui71ZrjFDvw";"Apple";Security;Sell;US0378331005;3;231,00;693,00;0,00;0,00;EUR
+2025-10-28;15:35:37;Executed;"SCALHPyYjFuM2aW";"Leverage Shares 3x NVIDIA ETP";Security;Sell;XS2820604770;5;60,005;300,025;0,00;7,73;EUR
+2025-10-28;15:30:03;Executed;"SCALdsQghxCQtC1";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Sell;IE0003BJ2JS4;20;50,05;1.001,00;0,00;21,58;EUR
+2025-10-28;14:34:42;Executed;"SCALLPHe92mjc25";"Nebius Group";Security;Sell;NL0009805522;3;108,00;324,00;0,00;0,79;EUR
+2025-10-28;11:34:28;Executed;"SCAL3Vgf1NwBqeM";"Leverage Shares 3x Long Gold";Security;Buy;XS2472195101;10;37,198;-371,98;0,00;0,00;EUR
+2025-10-28;06:28:24;Expired;"SCALhrLkJHFBUGw";"ASML Holding";Security;Buy;NL0010273215;0;0,00;0,00;0,00;0,00;EUR
+2025-10-27;18:44:50;Executed;"SCALkLpLwv4fokW";"D-Wave Quantum";Security;Sell;US26740W1099;9;30,72;276,48;0,00;0,00;EUR
+2025-10-27;18:18:03;Executed;"SCALp971T3WkMD4";"Nebius Group";Security;Buy;NL0009805522;5;107,00;-535,00;0,00;0,00;EUR
+2025-10-27;17:19:46;Executed;"SCALMi2je3G3fs2";"Leverage Shares 3x Long Gold";Security;Buy;XS2472195101;12;39,194;-470,328;0,00;0,00;EUR
+2025-10-27;16:12:19;Executed;"SCALjJMkAAgxFNJ";"Leverage Shares 4x Long Semiconductors ETP";Security;Sell;XS2779861082;50;9,005;450,25;0,00;0,00;EUR
+2025-10-27;16:11:41;Executed;"SCALyeQtM8vQCf8";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;70;11,277;-789,39;0,00;0,00;EUR
+2025-10-27;14:31:47;Executed;"SCALKBX1FgAAMa9";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;50;11,783;-589,15;0,00;0,00;EUR
+2025-10-27;14:31:35;Cancelled;"SCALYUSDu79jThx";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;0;0,00;0,00;0,00;0,00;EUR
+2025-10-27;13:19:37;Executed;"SCALpUdSzFGCvps";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;100;10,082;1.008,20;0,00;0,00;EUR
+2025-10-27;11:46:53;Executed;"SCALyj5Yk5AvURz";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;64;7,88;504,32;0,00;0,00;EUR
+2025-10-27;09:34:47;Executed;"SCALodyMrHqyn1r";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;50;7,7555;387,775;0,00;0,00;EUR
+2025-10-27;09:33:47;Executed;"SCALahuMRRZBG7p";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;14;20,09;281,26;0,00;0,00;EUR
+2025-10-27;09:33:11;Executed;"SCALcFc1zymv76W";"Leverage Shares 4x Long Semiconductors ETP";Security;Sell;XS2779861082;50;8,5925;429,625;0,00;0,00;EUR
+2025-10-27;09:32:27;Executed;"SCALjU7FT38UxeD";"Leverage Shares 3x Long Gold";Security;Buy;XS2472195101;8;41,312;-330,496;0,00;0,00;EUR
+2025-10-27;09:27:22;Executed;"SCALLkR9B9D1pWh";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;68;10,06;684,08;0,00;0,00;EUR
+2025-10-27;08:17:05;Cancelled;"SCALinMcBQQTBPM";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-10-27;08:16:27;Cancelled;"SCALb6rwMq44gKe";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-10-27;01:00:00;Executed;"AASE 87558347";"";Cash;Taxes;;;;11,33;0,00;;EUR
+2025-10-24;19:01:31;Executed;"SCAL8Z5RgNFPzUk";"Qualcomm";Security;Sell;US7475251036;3;146,40;439,20;0,00;1,55;EUR
+2025-10-24;19:01:17;Cancelled;"SCALzKyxwsrxqvr";"Qualcomm";Security;Sell;US7475251036;0;0,00;0,00;0,00;0,00;EUR
+2025-10-24;16:41:07;Executed;"SCALvaFCbRY7LnV";"Applied Digital";Security;Sell;US0381692070;9;30,00;270,00;0,00;4,74;EUR
+2025-10-24;02:00:00;Executed;"L3RKKFN6VVDVIGAS";"PRIME+ subscription";Cash;Fee;;;;-4,99;0,00;;EUR
+2025-10-23;15:46:04;Cancelled;"SCAL7k8s4d8daq5";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;0;0,00;0,00;0,00;0,00;EUR
+2025-10-22;18:30:44;Executed;"SCAL38oyTdbvuTf";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;50;6,768;-338,40;0,00;0,00;EUR
+2025-10-22;18:30:38;Executed;"SCALfiAksi1Q2zz";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;20;17,50;-350,00;0,00;0,00;EUR
+2025-10-22;17:35:09;Cancelled;"SCALmA4YAxrDKeM";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;0;0,00;0,00;0,00;0,00;EUR
+2025-10-22;17:33:35;Cancelled;"SCALeefn9mz84Cq";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;0;0,00;0,00;0,00;0,00;EUR
+2025-10-22;16:14:50;Executed;"SCALhc9igu4W1w2";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;14;18,394;-257,516;0,00;0,00;EUR
+2025-10-22;08:18:20;Executed;"SCALDqt3b78zwXs";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;50;12,59;-629,50;0,00;0,00;EUR
+2025-10-21;20:49:32;Executed;"SCALEqNTj48pkqD";"iShares Core S&P 500 (Acc)";Security;Sell;IE00B5BMR087;1;621,02;621,02;0,00;14,71;EUR
+2025-10-21;20:46:54;Executed;"SCALtr81teeNzHn";"Apple";Security;Sell;US0378331005;2;227,20;454,40;0,00;8,58;EUR
+2025-10-21;20:46:08;Executed;"SCALPeps5pG55UX";"Applied Digital";Security;Buy;US0381692070;10;28,00;-280,00;0,00;0,00;EUR
+2025-10-21;20:44:04;Executed;"SCALVAJiXjeoxD9";"Qualcomm";Security;Sell;US7475251036;2;145,56;291,12;0,00;0,59;EUR
+2025-10-21;12:40:30;Executed;"SCALnksjL8jBgBa";"D-Wave Quantum";Security;Buy;US26740W1099;10;29,98;-299,80;0,00;0,00;EUR
+2025-10-21;10:20:01;Executed;"SCALSftUgauU23n";"Leverage Shares 4x Long Semiconductors ETP";Security;Sell;XS2779861082;40;7,7495;309,98;0,00;20,44;EUR
+2025-10-21;10:09:11;Cancelled;"SCALCdhvfzEa8Gp";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-10-21;10:09:01;Cancelled;"SCAL9rMrkVYUt7x";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-10-21;10:08:41;Executed;"SCALQCtaQ3wRF7a";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;20;12,82;-256,40;0,00;0,00;EUR
+2025-10-20;14:29:03;Executed;"SCALUxb4UMGKCXn";"WisdomTree Natural Gas";Security;Buy;JE00BN7KB334;50;5,475;-273,75;0,00;0,00;EUR
+2025-10-17;16:30:44;Executed;"SCALVkMU9qDm7Ah";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;50;13,78;-689,00;0,00;0,00;EUR
+2025-10-17;09:38:16;Executed;"SCALJ1KXDK9yq93";"WisdomTree Silver 2x Daily Leveraged";Security;Sell;JE00B2NFTS64;50;14,912;745,60;0,00;9,70;EUR
+2025-10-17;09:25:15;Executed;"SCALkyK1H7URQGW";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;40;6,888;-275,52;0,00;0,00;EUR
+2025-10-17;09:24:08;Executed;"SCALFQ1Gu1rFpTy";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Buy;IE0003BJ2JS4;10;48,185;-481,85;0,00;0,00;EUR
+2025-10-17;07:45:10;Executed;"SCALipT8JzGbiyM";"iShares MSCI India (Acc)";Security;Sell;IE00BZCQB185;76,951;8,393;645,849743;0,00;0,00;EUR
+2025-10-17;07:44:59;Executed;"SCALL8cvmiMZXWf";"Xtrackers Nifty 50 Swap (Acc)";Security;Sell;LU0292109690;2,315;238,00;550,97;0,00;0,00;EUR
+2025-10-17;07:32:50;Executed;"SCALsxobY2HRboX";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;100;6,042;-604,20;0,00;0,00;EUR
+2025-10-16;18:33:33;Cancelled;"SCALvyvqP8N6F2E";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Buy;IE0003BJ2JS4;0;0,00;0,00;0,00;0,00;EUR
+2025-10-16;17:21:37;Cancelled;"SCAL8EN4te2Dcru";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Buy;IE0003BJ2JS4;0;0,00;0,00;0,00;0,00;EUR
+2025-10-15;14:32:05;Executed;"SCALj2Mdymeh1jx";"iShares MSCI China A (Acc)";Security;Sell;IE00BQT3WG13;53;4,8225;255,5925;0,00;4,74;EUR
+2025-10-15;14:07:57;Executed;"SCALGgdmb5eZp7c";"ASML Holding";Security;Sell;NL0010273215;0,857;883,00;756,731;0,00;8,16;EUR
+2025-10-15;10:16:36;Executed;"SCAL5kEb4mE8yb9";"ASML Holding";Security;Sell;NL0010273215;1;871,40;871,40;0,00;42,11;EUR
+2025-10-14;16:02:08;Executed;"SCALCYTbTJsk5zS";"Leverage Shares 3x NVIDIA ETP";Security;Buy;XS2820604770;5;50,745;-253,725;0,00;0,00;EUR
+2025-10-14;15:43:43;Executed;"SCAL6m91xZYes4o";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;6,45;-645,00;0,00;0,00;EUR
+2025-10-14;12:38:27;Executed;"SCALcSrvsZ1V6dp";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;10;30,73;-307,30;0,00;0,00;EUR
+2025-10-14;12:14:14;Executed;"SCALxEpqQQ2j5rf";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;100;13,701;-1.370,10;0,00;0,00;EUR
+2025-10-14;09:32:09;Executed;"SCALF2hN6EKFfsW";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;50;6,707;-335,35;0,00;0,00;EUR
+2025-10-14;09:05:20;Executed;"SCAL3jkNXVBC5Eh";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;6,8955;-689,55;0,00;0,00;EUR
+2025-10-14;09:04:41;Executed;"SCALAjYR3Rna1fr";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;500;0,9743;-487,15;0,00;0,00;EUR
+2025-10-14;08:09:32;Executed;"SCALxCiHY56j97d";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;50;7,4075;-370,375;0,00;0,00;EUR
+2025-10-14;02:00:00;Executed;"964365844";"scalable";Cash;Deposit;;;;2.000,00;0,00;;EUR
+2025-10-13;20:06:35;Executed;"SCALkN8vLkRkcfY";"Leverage Shares 3x Salesforce.com ETP Securities";Security;Sell;IE00BK5BZT14;300;2,86;858,00;0,00;4,83;EUR
+2025-10-13;17:54:41;Executed;"SCALnQtmqDdZfuQ";"ASML Holding";Security;Sell;NL0010273215;1;845,00;845,00;0,00;49,79;EUR
+2025-10-13;07:43:05;Cancelled;"SCALGTMqJpD5HaU";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Buy;XS2399367502;0;0,00;0,00;0,00;0,00;EUR
+2025-10-13;07:42:43;Cancelled;"SCALVdLcQYsNpkK";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;0;0,00;0,00;0,00;0,00;EUR
+2025-10-13;07:42:19;Cancelled;"SCALHh2GnNTaBX2";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;0;0,00;0,00;0,00;0,00;EUR
+2025-10-13;07:35:23;Executed;"SCAL9f5RmQroc5i";"CoinShares Physical Staked Cardano";Security;Buy;GB00BNRRF659;379;0,6664;-252,5656;1,74;0,00;EUR
+2025-10-13;07:34:54;Cancelled;"SCALBLZUs93KpGF";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-10-13;07:34:11;Cancelled;"SCALR3prs5QnvdE";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-10-13;07:32:06;Executed;"SCALK9sLGR9jxXQ";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;50;8,955;-447,75;0,00;0,00;EUR
+2025-10-13;07:05:20;Cancelled;"SCALfYqpWTD9Ngt";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;20:54:20;Executed;"SCAL38KmMfH3hNe";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Buy;XS2399367502;50;5,909;-295,45;0,00;0,00;EUR
+2025-10-10;18:21:07;Executed;"SCALtvEGx3uZDgR";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;40;40,818;1.632,72;0,00;102,41;EUR
+2025-10-10;18:20:49;Cancelled;"SCALwZPX26hpw8H";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:58:56;Executed;"SCALHxLJYkdgURr";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;50;7,2615;-363,075;0,00;0,00;EUR
+2025-10-10;17:51:14;Cancelled;"SCALzqf3uumd1Z1";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:39:35;Executed;"SCAL132XwwEqcUA";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;15,286;19,19;293,33834;0,00;20,56;EUR
+2025-10-10;17:38:33;Cancelled;"SCALu2vZEwwdR88";"Alibaba Group ADR";Security;Buy;US01609W1027;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:30:35;Executed;"SCALB5cXMoHV157";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;150;7,462;-1.119,30;0,00;0,00;EUR
+2025-10-10;17:29:04;Cancelled;"SCAL6Xw5nVKJ6HW";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:28:57;Cancelled;"SCALbBy6M8MVnWP";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:25:47;Cancelled;"SCALu9BsSQcT772";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:19:19;Executed;"SCALpBGZ3Boq3GF";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,3455;-734,55;0,00;0,00;EUR
+2025-10-10;17:13:44;Executed;"SCALjysrWLF8io6";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,683;-768,30;0,00;0,00;EUR
+2025-10-10;17:11:36;Cancelled;"SCAL1ddMoJCcGJa";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:10:02;Cancelled;"SCALJ7aB5WtLtHH";"Leverage Shares 3x Long Artificial Intelligence";Security;Buy;XS2779861751;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:09:48;Cancelled;"SCALE1e5BHS1sud";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:09:33;Cancelled;"SCALkLavchr1wzP";"Microsoft";Security;Buy;US5949181045;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:08:55;Executed;"SCALq7schBkQ8VB";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;38;8,855;-336,49;0,00;0,00;EUR
+2025-10-10;17:05:50;Cancelled;"SCALpPFiyPtzX7V";"Leverage Shares 3x Salesforce.com ETP Securities";Security;Buy;IE00BK5BZT14;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;17:03:17;Executed;"SCALVpbRNuE2yYH";"Leverage Shares 4x Long Semiconductors ETP";Security;Buy;XS2779861082;50;7,589;-379,45;0,00;0,00;EUR
+2025-10-10;16:27:21;Executed;"SCALwVscs1fMWqa";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;250;1,064;-266,00;0,00;0,00;EUR
+2025-10-10;13:25:45;Executed;"SCALnZb6rxGhKNZ";"WisdomTree Silver 2x Daily Leveraged";Security;Buy;JE00B2NFTS64;100;12,677;-1.267,70;0,00;0,00;EUR
+2025-10-10;10:25:25;Executed;"SCALzb6fj1GADRL";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;150;8,494;-1.274,10;0,00;0,00;EUR
+2025-10-10;10:01:59;Executed;"SCALJ5grnQxUaRy";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;50;9,2385;-461,925;0,00;0,00;EUR
+2025-10-10;10:01:43;Cancelled;"SCALCkXRTtxvQUo";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-10-10;09:04:30;Executed;"SCALpwe88xiTU5g";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;300;1,0745;-322,35;0,00;0,00;EUR
+2025-10-09;17:52:20;Executed;"SCALvf7JpC3T4JU";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;50;10,132;-506,60;0,00;0,00;EUR
+2025-10-09;17:09:50;Executed;"SCALWavNderuMpi";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;100;9,061;-906,10;0,00;0,00;EUR
+2025-10-09;16:07:42;Executed;"SCALoEk3zc3aSZk";"Leverage Shares 3x NVIDIA ETP";Security;Sell;XS2820604770;10;63,53;635,30;0,00;32,01;EUR
+2025-10-09;15:09:59;Executed;"SCALhuBRwMoqyUF";"Leverage Shares 3x NVIDIA ETP";Security;Sell;XS2820604770;5;61,96;309,80;0,00;26,81;EUR
+2025-10-09;14:25:39;Executed;"SCAL4TGWwosGzJu";"iShares Physical Gold ETC";Security;Buy;IE00B4ND3602;50;67,565;-3.378,25;0,00;0,00;EUR
+2025-10-09;11:46:25;Executed;"SCALXLH9aYsXHFp";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,658;-765,80;0,00;0,00;EUR
+2025-10-08;20:47:20;Executed;"SCALXSEsNy5ytjX";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;300;8,1205;2.436,15;0,00;0,00;EUR
+2025-10-08;16:21:15;Executed;"SCAL4mbgNSPuMoF";"ASML Holding";Security;Buy;NL0010273215;1;846,90;-846,90;0,00;0,00;EUR
+2025-10-08;16:20:14;Executed;"SCAL48JV1YvmR83";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;50;10,875;-543,75;0,00;0,00;EUR
+2025-10-08;16:19:34;Executed;"SCALtCJYrzaA19J";"iShares Physical Silver ETC (Acc)";Security;Buy;IE00B4NCWG09;50;40,166;-2.008,30;0,00;0,00;EUR
+2025-10-08;02:00:00;Executed;"AASE 86348402";"";Cash;Taxes;;;;18,55;0,00;;EUR
+2025-10-07;22:01:49;Executed;"SCALDiX7VAiwM5u";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;50;10,801;-540,05;0,00;0,00;EUR
+2025-10-07;20:51:15;Executed;"SCALmEhXnpW3Usb";"Leverage Shares 4x Long Semiconductors ETP Securities";Security;Buy;XS2779861082;50;7,342;-367,10;0,00;0,00;EUR
+2025-10-07;17:45:49;Executed;"SCAL5aZ5WHgNqUt";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;50;11,28;-564,00;0,00;0,00;EUR
+2025-10-07;17:14:36;Executed;"SCALqPb42rAYrHX";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;300;1,1495;-344,85;0,00;0,00;EUR
+2025-10-07;17:13:30;Executed;"SCALefkdC69wkZS";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;50;11,683;-584,15;0,00;0,00;EUR
+2025-10-07;17:12:36;Executed;"SCAL4A1Hwksed8T";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;30;11,545;-346,35;0,00;0,00;EUR
+2025-10-07;12:19:02;Executed;"SCALcMXD3HPwbBv";"Leverage Shares -3x Short Tesla ETP Securities";Security;Sell;XS3135031279;6,6;15,034;99,2244;0,99;0,00;EUR
+2025-10-07;11:07:28;Executed;"SCALepK8Jb5eLY8";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;10;34,73;-347,30;0,00;0,00;EUR
+2025-10-07;10:36:50;Executed;"SCALc3mSKo2Ez64";"D-Wave Quantum";Security;Sell;US26740W1099;10;32,00;320,00;0,00;1,89;EUR
+2025-10-07;10:17:44;Executed;"SCALHZ6oKJ6dp62";"Qualcomm";Security;Buy;US7475251036;5;144,44;-722,20;0,00;0,00;EUR
+2025-10-07;10:17:18;Executed;"SCAL3WiNe9M91Rg";"D-Wave Quantum";Security;Buy;US26740W1099;10;31,28;-312,80;0,00;0,00;EUR
+2025-10-07;02:00:00;Executed;"AASE 86248824";"";Cash;Taxes;;;;58,22;0,00;;EUR
+2025-10-06;19:33:25;Executed;"SCALcLszo6TrRxe";"Leverage Shares 3x UBER ETP Securities";Security;Sell;XS2337092550;400;1,2017;480,68;0,00;10,39;EUR
+2025-10-06;16:57:30;Executed;"SCALjCPoSfCZiHS";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;10;54,145;-541,45;0,00;0,00;EUR
+2025-10-06;16:52:50;Executed;"SCALxwtSxFAF2ZM";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;50;12,172;608,60;0,00;40,82;EUR
+2025-10-06;16:50:39;Executed;"SCALMJKbNLuLpxP";"Leverage Shares 4x Long Semiconductors ETP Securities";Security;Sell;XS2779861082;50;8,0875;404,375;0,00;24,05;EUR
+2025-10-06;16:50:09;Cancelled;"SCALVcaBTuSmZKa";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-10-06;16:11:20;Executed;"SCALsbKXmZk8RxT";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;6,999;-699,90;0,00;0,00;EUR
+2025-10-06;16:11:04;Executed;"SCALyzanhmN39hV";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;14;6,9985;-97,979;0,99;0,00;EUR
+2025-10-06;16:06:02;Executed;"SCALG53z7pwE8cN";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,07;-707,00;0,00;0,00;EUR
+2025-10-06;15:40:53;Executed;"SCALq6wNqDPLqm3";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;15;18,95;284,25;0,00;19,50;EUR
+2025-10-06;13:59:55;Executed;"SCAL9StibM4FDXb";"Advanced Micro Devices";Security;Sell;US0079031078;5,034;178,32;897,66288;0,00;64,71;EUR
+2025-10-06;13:56:25;Executed;"SCAL51CiDiJU8x8";"Xtrackers MSCI World (Acc)";Security;Sell;IE00BJ0KDQ92;2,069;119,73;247,72137;0,99;1,44;EUR
+2025-10-06;13:55:25;Executed;"SCALxeALYPFtYeY";"Advanced Micro Devices";Security;Sell;US0079031078;5;176,58;882,90;0,00;61,98;EUR
+2025-10-06;13:47:57;Executed;"SCALXdkWWtFbRF3";"Advanced Micro Devices";Security;Sell;US0079031078;5;175,82;879,10;0,00;59,97;EUR
+2025-10-06;13:40:01;Executed;"SCALZaQFxPWwAKe";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;541;1,2485;675,4385;0,00;90,36;EUR
+2025-10-06;13:39:36;Executed;"SCAL7jwFD5ygsSJ";"Advanced Micro Devices";Security;Sell;US0079031078;8;175,22;1.401,76;0,00;110,89;EUR
+2025-10-06;13:37:51;Executed;"SCAL5zHnFyuUu51";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;500;1,2454;622,70;0,00;92,14;EUR
+2025-10-06;13:36:27;Executed;"SCALmBYP4BoXZNR";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;1.000;1,2421;1.242,10;0,00;174,31;EUR
+2025-10-06;13:17:52;Executed;"SCALfbE8w9bEqgT";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;1.000;1,2369;1.236,90;0,00;160,01;EUR
+2025-10-03;18:25:46;Executed;"SCALiaToCU5RdQr";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;20;18,25;365,00;0,00;23,35;EUR
+2025-10-03;18:25:25;Executed;"SCALDbszLtnAmG8";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;20;18,24;364,80;0,00;18,63;EUR
+2025-10-03;09:36:23;Executed;"SCALpSEir3RC7Qh";"Vanguard S&P 500 (Dist)";Security;Sell;IE00B3XXRP09;2,301;108,775;250,291275;0,00;0,06;EUR
+2025-10-03;02:00:00;Executed;"WWEK 52294327";"NVIDIA";Cash;Distribution;US67066G1040;;;0,14;0,00;0,11;EUR
+2025-10-02;17:25:18;Executed;"SCALvKM7Y4YDRfb";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;300;1,0412;-312,36;0,00;0,00;EUR
+2025-10-02;10:23:57;Executed;"SCAL5Fdgdsqq4oS";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;600;1,1032;-661,92;0,00;0,00;EUR
+2025-10-02;09:04:23;Executed;"SCALytJrvyNC4FR";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;1.000;0,734;734,00;0,00;30,99;EUR
+2025-10-02;07:35:16;Executed;"SCALmLxABPjUpgw";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;30;17,16;514,80;0,00;20,99;EUR
+2025-10-02;07:31:23;Executed;"SCALgRSs6yD5TXS";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;100;11,709;1.170,90;0,00;76,82;EUR
+2025-10-02;02:00:00;Executed;"20251002REF564";"Refer a Friend - Bonus";Cash;Fee;;;;25,00;0,00;;EUR
+2025-10-02;02:00:00;Executed;"WWEK 52201110";"Vanguard S&P 500 (Dist)";Cash;Distribution;IE00B3XXRP09;;;0,49;0,00;0,10;EUR
+2025-10-01;22:00:07;Executed;"SCAL5aZ1FZjH9yQ";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;50;10,18;509,00;0,00;15,64;EUR
+2025-10-01;20:43:48;Executed;"SCALbwsg13PerXs";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Sell;XS2399367502;50;5,9155;295,775;0,00;25,27;EUR
+2025-10-01;18:34:25;Executed;"SCALfeiBAoLyfkq";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;10;64,14;641,40;0,00;22,18;EUR
+2025-10-01;18:33:55;Executed;"SCALepJdEsi3JjV";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;20;38,576;771,52;0,00;38,99;EUR
+2025-10-01;13:05:25;Executed;"SCALU66LqKnY22u";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,0045;-700,45;0,00;0,00;EUR
+2025-10-01;13:05:05;Cancelled;"SCALFdtzJMyavZo";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-10-01;10:40:01;Executed;"SCALEgcf1fcoFim";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;100;9,076;-907,60;0,00;0,00;EUR
+2025-09-30;16:30:33;Executed;"SCALBduyvMqrTwH";"Leverage Shares 3x Salesforce.com ETP Securities";Security;Buy;IE00BK5BZT14;100;2,6474;-264,74;0,00;0,00;EUR
+2025-09-30;13:53:08;Executed;"SCALfidoR3s3ECV";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;50;10,131;506,55;0,00;10,57;EUR
+2025-09-30;11:29:25;Executed;"SCALHynYCwAiaBP";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;50;10,06;503,00;0,00;9,63;EUR
+2025-09-30;09:21:36;Cancelled;"SCALHDyaxFZHXUf";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-09-30;09:21:10;Executed;"SCALMKh7t7JSBLK";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;50;9,9195;495,975;0,00;7,55;EUR
+2025-09-30;02:00:00;Executed;"WWEK 51804089";"Meta Platforms A";Cash;Distribution;US30303M1027;;;0,33;0,00;0,23;EUR
+2025-09-30;02:00:00;Executed;"ARKA 00820515588";"KKT-Abschluss";Cash;Interest;;;;16,18;0,00;5,79;EUR
+2025-09-29;16:24:40;Executed;"SCALwzaWYes284r";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;50;9,447;472,35;0,00;1,31;EUR
+2025-09-29;16:24:14;Cancelled;"SCAL17R4ekrqKqj";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-09-29;12:38:57;Executed;"SCALsvk6se8MFWu";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;1.000;0,672;672,00;0,00;6,48;EUR
+2025-09-29;08:39:34;Cancelled;"SCAL7APQE9RtKGQ";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-09-25;15:47:13;Executed;"SCALZqkg3eWGnLC";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,6209;-310,45;0,00;0,00;EUR
+2025-09-25;15:46:01;Executed;"SCALKi3WnKtHExo";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;20;36,06;721,20;0,00;25,35;EUR
+2025-09-25;14:21:39;Executed;"SCALPjyFtQ3niHb";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,185;-718,50;0,00;0,00;EUR
+2025-09-25;14:05:58;Executed;"SCALbTg1fWJQXEE";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Buy;IE0003BJ2JS4;10;43,815;-438,15;0,00;0,00;EUR
+2025-09-25;14:05:04;Executed;"SCALMdzxmaQ28yb";"Leverage Shares 4x Long Semiconductors ETP Securities";Security;Buy;XS2779861082;50;5,8115;-290,575;0,00;0,00;EUR
+2025-09-25;09:29:01;Executed;"SCALPyMnUMwnH11";"21Shares Cardano ETP";Security;Buy;CH1102728750;21;12,416;-260,736;1,79;0,00;EUR
+2025-09-24;17:01:22;Cancelled;"SCALrvBQHCv8FLH";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-09-24;15:31:15;Executed;"SCALm3pTkg6sq5f";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;2.500;0,7212;1.803,00;0,00;0,00;EUR
+2025-09-24;15:30:16;Executed;"SCALP4RgsgfANKL";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;500;0,7011;350,55;0,00;0,47;EUR
+2025-09-24;11:21:01;Executed;"SCALMGbo3R1DrHd";"Alibaba Group ADR";Security;Sell;US01609W1027;5;151,00;755,00;0,00;13,97;EUR
+2025-09-24;11:06:50;Executed;"SCAL2QrVKwG6pH5";"Amazon.com";Security;Buy;US0231351067;2;190,94;-381,88;0,00;0,00;EUR
+2025-09-24;10:39:47;Executed;"SCALJJTLdoyDx8K";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;5;50,445;-252,225;0,00;0,00;EUR
+2025-09-24;02:00:00;Executed;"AASE 85061471";"";Cash;Taxes;;;;80,30;0,00;;EUR
+2025-09-24;02:00:00;Executed;"XXDSNIGVPFD6WF5V";"PRIME+ subscription";Cash;Fee;;;;-4,99;0,00;;EUR
+2025-09-23;18:35:23;Executed;"SCALnSKyQH6k9S7";"Leverage Shares 4x Long Semiconductors ETP Securities";Security;Buy;XS2779861082;50;6,264;-313,20;0,00;0,00;EUR
+2025-09-23;17:19:14;Cancelled;"SCALVDWK7g8rNBK";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-09-23;17:15:29;Executed;"SCALdun9Vu7onu3";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;50;8,599;-429,95;0,00;0,00;EUR
+2025-09-23;17:15:17;Cancelled;"SCALGZTLp4Wh98k";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-09-23;16:34:17;Executed;"SCALmVk55jri1sV";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;100;8,9935;-899,35;0,00;0,00;EUR
+2025-09-23;16:04:30;Executed;"SCALCL75xRB9ZD9";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,4215;-742,15;0,00;0,00;EUR
+2025-09-23;16:00:16;Executed;"SCALHhePEyTwqsk";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;100;9,3295;-932,95;0,00;0,00;EUR
+2025-09-23;16:00:11;Executed;"SCALZ6eaxJyASzP";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,359;-735,90;0,00;0,00;EUR
+2025-09-23;15:59:57;Executed;"SCALiN3HBTYfxxJ";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;100;9,347;-934,70;0,00;0,00;EUR
+2025-09-23;15:59:06;Executed;"SCALW3LjXWpeCpg";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,389;-738,90;0,00;0,00;EUR
+2025-09-23;15:58:38;Cancelled;"SCALCm6g3F8ZXb1";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-09-23;14:23:32;Executed;"SCALEEsrRas5fQF";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;20;35,80;716,00;0,00;24,20;EUR
+2025-09-23;14:23:20;Executed;"SCAL3YdcvvkT3P4";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;10;62,295;622,95;0,00;17,40;EUR
+2025-09-23;13:57:29;Executed;"SCALKBCh64TCRjk";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;8,0715;-807,15;0,00;0,00;EUR
+2025-09-23;13:57:22;Cancelled;"SCALBGB4WtZMQhn";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-09-23;13:57:05;Cancelled;"SCALb2CHgVf8cMV";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-09-23;13:56:34;Cancelled;"SCALX5nbZLDdxzo";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-09-23;13:56:27;Cancelled;"SCALVPpMp5tEziG";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-09-23;13:56:20;Cancelled;"SCALoG9z8NNtYeE";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;0;0,00;0,00;0,00;0,00;EUR
+2025-09-23;09:45:17;Executed;"SCALWSMRGuas4rQ";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;5;52,66;263,30;0,00;8,30;EUR
+2025-09-22;18:17:12;Executed;"SCAL9dL1vhUbUDG";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;6;49,394;296,364;0,00;40,11;EUR
+2025-09-22;16:36:58;Cancelled;"SCALMQgevzT5PRr";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-09-22;10:47:53;Executed;"SCALraZ1NFJjeVH";"WisdomTree Uranium and Nuclear Energy (Acc)";Security;Buy;IE0003BJ2JS4;50;44,205;-2.210,25;0,00;0,00;EUR
+2025-09-22;09:09:35;Executed;"SCALMjQ4RNivaqr";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;150;11,211;1.681,65;0,00;40,35;EUR
+2025-09-19;15:50:54;Executed;"SCAL9TUZucuXbYY";"Leverage Shares 3x UBER ETP Securities";Security;Sell;XS2337092550;2.000;1,1003;2.200,60;0,00;55,59;EUR
+2025-09-18;13:40:04;Executed;"SCAL2JgQJaHoF2K";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;1.000;0,5467;-546,70;0,00;0,00;EUR
+2025-09-18;13:14:37;Executed;"SCALihU3vkYSbkU";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Sell;XS2399367502;100;5,001;500,10;0,00;21,21;EUR
+2025-09-18;13:09:43;Executed;"SCAL65VGkx5wXr3";"Advanced Micro Devices";Security;Buy;US0079031078;10;129,58;-1.295,80;0,00;0,00;EUR
+2025-09-18;13:06:04;Executed;"SCALCmwyH8BocJT";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,6098;-304,90;0,00;0,00;EUR
+2025-09-18;13:05:21;Executed;"SCALW3JXJ4NGE7P";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,618;-309,00;0,00;0,00;EUR
+2025-09-18;11:12:45;Executed;"SCALz6RhWboBaUv";"Leverage Shares 5x Long Magnificent 7";Security;Sell;XS2779861249;15;31,03;465,45;0,00;64,72;EUR
+2025-09-18;10:34:48;Cancelled;"SCALnJtMkoCsZG2";"Leverage Shares 3x Baidu ETP Securities";Security;Sell;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-09-17;22:35:15;Cancelled;"SCALxzK5dR1sDmb";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;0;0,00;0,00;0,00;0,00;EUR
+2025-09-17;21:28:23;Executed;"SCALUrKQtcX5F34";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;50;16,00;800,00;0,00;23,48;EUR
+2025-09-17;18:00:25;Cancelled;"SCALJ5kiCqoxqWg";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;0;0,00;0,00;0,00;0,00;EUR
+2025-09-17;17:59:18;Executed;"SCAL4uCp58LAwBp";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;1.000;0,9949;-994,90;0,00;0,00;EUR
+2025-09-17;17:58:45;Executed;"SCALqkqPxwu7t6L";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;1.000;0,9949;-994,90;0,00;0,00;EUR
+2025-09-17;17:39:03;Executed;"SCALnxukRSd4riV";"Leverage Shares 3x UBER ETP Securities";Security;Sell;XS2337092550;1.000;1,1086;1.108,60;0,00;23,34;EUR
+2025-09-17;17:17:24;Executed;"SCALoWNui6UoxCw";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;50;8,298;-414,90;0,00;0,00;EUR
+2025-09-17;16:23:32;Executed;"SCALZPHN8xaAgdk";"Leverage Shares 3x UBER ETP Securities";Security;Buy;XS2337092550;1.000;1,0201;-1.020,10;0,00;0,00;EUR
+2025-09-17;11:48:41;Executed;"SCALtoQJGVDQN7w";"WisdomTree S&P 500 5x Daily Leveraged";Security;Sell;XS2771643025;5,993;31,412;188,252116;0,99;29,29;EUR
+2025-09-17;11:48:00;Executed;"SCALTsFaVJtGRQn";"Leverage Shares 5x Long Magnificent 7";Security;Sell;XS2779861249;10;29,732;297,32;0,00;39,73;EUR
+2025-09-17;11:34:45;Executed;"SCALcJPntX5jRc1";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;7;45,342;317,394;0,00;66,38;EUR
+2025-09-17;11:32:55;Executed;"SCALiscJ5xCSMGW";"Alibaba Group ADR";Security;Buy;US01609W1027;5;140,40;-702,00;0,00;0,00;EUR
+2025-09-17;11:29:34;Executed;"SCALTChFjB87Ppy";"Leverage Shares 3x Baidu ETP Securities";Security;Buy;XS2757381749;150;10,191;-1.528,65;0,00;0,00;EUR
+2025-09-16;06:29:01;Expired;"SCALjWRWKeVAxtu";"Taiwan Semiconductor Manufact. ADR";Security;Buy;US8740391003;0;0,00;0,00;0,00;0,00;EUR
+2025-09-15;20:33:05;Executed;"SCALMdJycS6tm3o";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Sell;XS2399367502;100;4,7514;475,14;0,00;7,50;EUR
+2025-09-11;18:16:55;Executed;"SCALW75jecGoDoJ";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,6447;-322,35;0,00;0,00;EUR
+2025-09-11;16:33:27;Executed;"SCALNAoqC2CNDo3";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;50;8,3825;-419,125;0,00;0,00;EUR
+2025-09-11;16:32:52;Executed;"SCALHJGcaPUfjna";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;50;15,00;750,00;0,00;14,12;EUR
+2025-09-11;10:19:57;Executed;"SCALwKN3zQxYsgt";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;50;8,629;-431,45;0,00;0,00;EUR
+2025-09-11;10:19:27;Executed;"SCALxzWAAfB8ZVa";"Leverage Shares 3x Salesforce.com ETP Securities";Security;Buy;IE00BK5BZT14;100;2,9102;-291,02;0,00;0,00;EUR
+2025-09-10;20:57:01;Executed;"SCALkEweyF51rE6";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;80;14,66;1.172,80;0,00;63,57;EUR
+2025-09-10;09:04:15;Executed;"SCALhdCYkMRGbMs";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;50;9,287;464,35;0,00;0,00;EUR
+2025-09-09;19:55:31;Executed;"SCAL17qwuxQDCfc";"Taiwan Semiconductor Manufact. ADR";Security;Sell;US8740391003;3,194;216,50;691,501;0,00;56,40;EUR
+2025-09-09;17:56:05;Executed;"SCALVC13TjoJdRS";"Leverage Shares 3x Long Artificial Intelligence";Security;Sell;XS2779861751;25;35,00;875,00;0,00;33,03;EUR
+2025-09-08;13:04:32;Executed;"SCALiJMXfQKD62o";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;10;59,86;598,60;0,00;14,01;EUR
+2025-09-08;06:29:20;Expired;"SCALc3V4qBEoNdW";"Alphabet A";Security;Buy;US02079K3059;0;0,00;0,00;0,00;0,00;EUR
+2025-09-05;18:44:04;Executed;"SCALztmJbYSoGFM";"Advanced Micro Devices";Security;Buy;US0079031078;5;130,24;-651,20;0,00;0,00;EUR
+2025-09-05;16:12:31;Cancelled;"SCALfL7b9bjjBLF";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-09-05;16:11:38;Executed;"SCALH6XvWCv5q5e";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,5904;-295,20;0,00;0,00;EUR
+2025-09-05;16:02:59;Executed;"SCALp8hbNLxhscF";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;7;41,622;-291,354;0,00;0,00;EUR
+2025-09-05;15:30:52;Executed;"SCAL7jtS81MZpCY";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,6381;-319,05;0,00;0,00;EUR
+2025-09-05;15:30:16;Executed;"SCALDLzjEP216qk";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;1.000;0,6452;-645,20;0,00;0,00;EUR
+2025-09-05;13:27:43;Executed;"SCALYB9PAj9uJKy";"Leverage Shares 3x Amazon ETP";Security;Sell;IE00BK5BZQ82;46;9,0015;414,069;0,00;0,00;EUR
+2025-09-05;11:50:50;Executed;"SCAL9reZBr8V8nc";"WisdomTree S&P 500 5x Daily Leveraged";Security;Sell;XS2771643025;10;29,87;298,70;0,00;53,10;EUR
+2025-09-05;11:50:18;Executed;"SCALHJt2qg395Y9";"Leverage Shares 5x Long Magnificent 7";Security;Sell;XS2779861249;25;23,842;596,05;0,00;60,48;EUR
+2025-09-05;02:00:00;Executed;"AASE 84335334";"";Cash;Taxes;;;;1,22;0,00;;EUR
+2025-09-04;08:13:26;Executed;"SCAL7bjXNEcXnUC";"Alphabet A";Security;Sell;US02079K3059;3,161;197,72;624,99292;0,00;34,58;EUR
+2025-09-03;15:58:51;Executed;"SCALCWYRQBvVi5U";"Alphabet A";Security;Sell;US02079K3059;3;197,00;591,00;0,00;41,08;EUR
+2025-09-03;00:28:00;Rejected;"SCALSSYzPHz4LfF";"Alphabet A";Security;Sell;US02079K3059;0;0,00;0,00;0,00;0,00;EUR
+2025-09-02;20:00:03;Executed;"SCALrtecNqkxgBT";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;10;58,81;588,10;0,00;11,20;EUR
+2025-09-02;16:09:03;Executed;"SCALETe381UPr3K";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;40;8,0135;-320,54;0,00;0,00;EUR
+2025-09-01;15:05:16;Executed;"SCALuVQkuuCh8xY";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;20;57,60;1.152,00;0,00;15,58;EUR
+2025-09-01;12:10:35;Executed;"SCALrtv8Ced8WhU";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;20;57,525;1.150,50;0,00;43,14;EUR
+2025-09-01;12:09:26;Executed;"SCALY4njiDPaBbi";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;40;33,002;1.320,08;0,00;54,18;EUR
+2025-09-01;11:59:09;Cancelled;"SCALXrKUkCWSR2z";"NVIDIA";Security;Sell;US67066G1040;0;0,00;0,00;0,00;0,00;EUR
+2025-08-29;19:49:19;Executed;"SCALL137fiwJTZo";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;200;4,9812;996,24;0,00;64,13;EUR
+2025-08-29;19:36:42;Executed;"SCALTgEH4cUEA61";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;220;4,9194;1.082,268;0,00;89,08;EUR
+2025-08-27;15:07:51;Executed;"SCALhABUPtm7g3x";"Tesla";Security;Sell;US88160R1014;0,989;303,50;300,1615;0,00;21,68;EUR
+2025-08-26;02:00:00;Executed;"WWUM 00538932707";"Leverage Shares -3x Short Tesla ETP";Security;Corporate action;XS2706232803;-4.000;0,08;-320,00;;;EUR
+2025-08-26;02:00:00;Executed;"WWUM 00538932709";"LEVERAGE SHARES PLC";Security;Corporate action;XS3135031279;6,6;48,484848484;319,9999999944;;;EUR
+2025-08-25;18:07:33;Executed;"SCALpGqdxHH7Yyv";"Leverage Shares 3x Alphabet ETP";Security;Sell;IE00BK5BZX59;3;54,065;162,195;0,99;14,31;EUR
+2025-08-25;02:00:00;Executed;"B2TIQ4SEW2XROY7M";"PRIME+ subscription";Cash;Fee;;;;-4,99;0,00;;EUR
+2025-08-22;19:11:15;Executed;"SCALjzpfDjEXQDG";"Leverage Shares 3x Alphabet ETP Securities";Security;Sell;IE00BK5BZX59;5;51,56;257,80;0,00;20,56;EUR
+2025-08-21;16:24:15;Executed;"SCALZTgjqcBtUuz";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;70;3,6634;-256,438;0,00;0,00;EUR
+2025-08-21;13:50:13;Cancelled;"SCALaqQNAdx4eTx";"Leverage Shares 2x Micron Technology ETP Securities";Security;Buy;IE00BKT66K01;0;0,00;0,00;0,00;0,00;EUR
+2025-08-20;16:17:23;Executed;"SCALj2QqoxRQZH8";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,6985;-349,25;0,00;0,00;EUR
+2025-08-20;15:53:45;Executed;"SCALbRSnckZMUuo";"Leverage Shares 3x Long Artificial Intelligence";Security;Buy;XS2779861751;25;29,99;-749,75;0,00;0,00;EUR
+2025-08-20;15:37:06;Executed;"SCALx7kw2rQFHFG";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;6;47,996;-287,976;0,00;0,00;EUR
+2025-08-20;09:16:43;Executed;"SCALQkoQb7rywUi";"Leverage Shares -1x Microsoft ETP Securities";Security;Sell;IE00BKTW9M13;100;4,4394;443,94;0,00;7,40;EUR
+2025-08-20;09:16:23;Cancelled;"SCAL2TMP5rHugrd";"Leverage Shares -1x Microsoft ETP Securities";Security;Sell;IE00BKTW9M13;0;0,00;0,00;0,00;0,00;EUR
+2025-08-20;09:15:17;Executed;"SCALMcYtNvUN9sn";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,7835;-391,75;0,00;0,00;EUR
+2025-08-20;06:28:40;Expired;"SCALPENuda7tqvg";"Leverage Shares -3x Short Tesla ETP";Security;Buy;XS2706232803;0;0,00;0,00;0,00;0,00;EUR
+2025-08-20;06:28:40;Expired;"SCALHdFT32Cfho9";"Leverage Shares -3x Short Tesla ETP";Security;Buy;XS2706232803;0;0,00;0,00;0,00;0,00;EUR
+2025-08-19;18:11:06;Cancelled;"SCALf5pAvnSQeRi";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-08-19;16:24:49;Cancelled;"SCALfzwUKdpyJCo";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-08-19;16:24:41;Cancelled;"SCALYAyZ9jrs5ck";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-08-19;16:23:48;Executed;"SCAL92n2GZ7NiQG";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,8496;-424,80;0,00;0,00;EUR
+2025-08-19;16:12:17;Cancelled;"SCALdRjnpk6vMFP";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-08-19;14:36:23;Executed;"SCALXadWsgbrkfL";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;541;0,9227;-499,1807;0,00;0,00;EUR
+2025-08-19;13:40:39;Cancelled;"SCALksGNqjtecgR";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-08-19;11:34:36;Executed;"SCALEfsuZ6Daix8";"Leverage Shares 3x Long Artificial Intelligence";Security;Sell;XS2779861751;10,703;35,02;374,81906;0,00;66,40;EUR
+2025-08-18;17:15:04;Executed;"SCALt8iJwP6pZyG";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,9423;-471,15;0,00;0,00;EUR
+2025-08-18;15:42:24;Executed;"SCALqR4hUhgDpGW";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;5;56,005;280,025;0,00;61,47;EUR
+2025-08-18;13:40:36;Executed;"SCAL7Kr5MZMS59y";"Leverage Shares 3x Salesforce.com ETP Securities";Security;Buy;IE00BK5BZT14;100;2,8392;-283,92;0,00;0,00;EUR
+2025-08-18;07:36:02;Executed;"SCALRA1TAt4Agda";"iShares Physical Gold ETC";Security;Buy;IE00B4ND3602;40;55,73;-2.229,20;0,00;0,00;EUR
+2025-08-15;02:00:00;Executed;"WWEK 49948873";"Apple";Cash;Distribution;US0378331005;;;1,32;0,00;0,89;EUR
+2025-08-13;22:03:28;Executed;"SCALS5nEHWNg1zc";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;150;4,3396;650,94;0,00;61,28;EUR
+2025-08-13;19:03:23;Executed;"SCALpzg6QenWzYE";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;500;1,0806;540,30;0,00;36,11;EUR
+2025-08-13;19:00:44;Cancelled;"SCALctMNgeNHLgW";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-08-13;15:31:30;Executed;"SCALx7GSu2Jmjtq";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;500;1,0517;525,85;0,00;20,12;EUR
+2025-08-11;10:47:16;Executed;"SCALZpAcVw42k4z";"Micron Technology";Security;Sell;US5951121038;10;102,00;1.020,00;0,00;8,62;EUR
+2025-08-08;15:42:23;Executed;"SCALe2pT4Y8ddn5";"Leverage Shares -3x Short Tesla ETP";Security;Buy;XS2706232803;4.000;0,08;-320,00;0,00;0,00;EUR
+2025-08-06;16:52:01;Executed;"SCALLkKaEAxkTd8";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,6975;-348,75;0,00;0,00;EUR
+2025-08-06;16:28:03;Executed;"SCALP6iyjC4oB4z";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Buy;XS2399367502;100;3,999;-399,90;0,00;0,00;EUR
+2025-08-06;07:35:03;Cancelled;"SCALZnYwLaNuf8d";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-08-06;07:34:56;Cancelled;"SCALLcrubzQjgYw";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;0;0,00;0,00;0,00;0,00;EUR
+2025-08-06;07:34:17;Executed;"SCALzxamh9F9L4Q";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,8068;-403,40;0,00;0,00;EUR
+2025-08-06;02:00:00;Executed;"WWEK 49732341";"ASML Holding";Cash;Distribution;NL0010273215;;;2,21;0,00;0,76;EUR
+2025-08-05;15:46:17;Executed;"SCALSKZxTut7n9N";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;50;7,3105;-365,525;0,00;0,00;EUR
+2025-08-05;15:45:13;Executed;"SCALmVz2Krs5WiT";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;6;7,2645;-43,587;0,99;0,00;EUR
+2025-08-01;15:53:02;Executed;"SCALJMbJ9BA7jop";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;50;11,906;-595,30;0,00;0,00;EUR
+2025-08-01;15:49:14;Executed;"SCALW2FvqAGZVbG";"Advanced Micro Devices";Security;Buy;US0079031078;5;145,00;-725,00;0,00;0,00;EUR
+2025-08-01;10:28:05;Executed;"SCALAHaJkajg9Tm";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,8991;-449,55;0,00;0,00;EUR
+2025-08-01;10:23:26;Cancelled;"SCALb5Faphmfmap";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-08-01;10:04:01;Executed;"SCALpu4CHNj5LTN";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;70;7,4995;-524,965;0,00;0,00;EUR
+2025-08-01;07:38:56;Executed;"SCALWBdBUrBKgjS";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;7,999;-799,90;0,00;0,00;EUR
+2025-07-31;22:34:13;Executed;"SCALqG2Sd4eDYCq";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;30;9,182;-275,46;0,00;0,00;EUR
+2025-07-31;22:06:09;Executed;"SCAL8FprzTGbFeS";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;30;13,196;-395,88;0,00;0,00;EUR
+2025-07-31;09:24:53;Executed;"SCALft83QUcaMKd";"Advanced Micro Devices";Security;Sell;US0079031078;2;161,66;323,32;0,00;34,43;EUR
+2025-07-31;09:04:32;Executed;"SCALqmaZHyiFogw";"Leverage Shares -1x Microsoft ETP Securities";Security;Buy;IE00BKTW9M13;100;4,1586;-415,86;0,00;0,00;EUR
+2025-07-31;08:31:02;Executed;"SCALgK6EhX6gPqv";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;100;10,559;-1.055,90;0,00;0,00;EUR
+2025-07-31;08:00:35;Executed;"SCALsdAq9U8qLHu";"iShares Physical Silver ETC (Acc)";Security;Buy;IE00B4NCWG09;50;31,11;-1.555,50;0,00;0,00;EUR
+2025-07-30;22:34:47;Executed;"SCALwycxmWFCELP";"Microsoft";Security;Sell;US5949181045;0,716;483,15;345,9354;0,00;26,37;EUR
+2025-07-29;16:54:35;Executed;"SCALA9b8w6XrzLc";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;230;1,0952;251,896;0,00;23,49;EUR
+2025-07-29;09:58:29;Cancelled;"SCALuuNmLCfnviz";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-07-29;09:46:46;Executed;"SCAL9BdRoRxNjTB";"iShares MSCI China A (Acc)";Security;Buy;IE00BQT3WG13;60;4,337;-260,22;0,00;0,00;EUR
+2025-07-29;09:28:50;Executed;"SCALyYAvaTAe2yu";"Advanced Micro Devices";Security;Sell;US0079031078;5;152,00;760,00;0,00;60,33;EUR
+2025-07-28;17:23:59;Executed;"SCALmyXxEVamU8v";"Microsoft";Security;Sell;US5949181045;1;441,00;441,00;0,00;13,52;EUR
+2025-07-28;16:55:41;Executed;"SCALBnvVeW52g6A";"iShares Physical Silver ETC (Acc)";Security;Buy;IE00B4NCWG09;50;31,254;-1.562,70;0,00;0,00;EUR
+2025-07-28;16:09:14;Executed;"SCALYUtMLJfpag6";"Advanced Micro Devices";Security;Sell;US0079031078;5;149,10;745,50;0,00;30,56;EUR
+2025-07-28;16:09:11;Cancelled;"SCALDchmNqZBn6h";"Advanced Micro Devices";Security;Sell;US0079031078;0;0,00;0,00;0,00;0,00;EUR
+2025-07-28;16:06:53;Executed;"SCALKCw8wQC4fzT";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;270;0,9559;258,093;0,00;17,66;EUR
+2025-07-28;15:32:05;Executed;"SCALAw93ud3MWYn";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;500;0,9036;451,80;0,00;20,95;EUR
+2025-07-28;15:31:16;Executed;"SCAL4niCHFc5VEt";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;5;50,575;252,875;0,00;54,32;EUR
+2025-07-28;14:24:40;Executed;"SCALdqVNHVCLWWC";"21Shares Cardano ETP";Security;Buy;CH1102728750;37;13,176;-487,512;3,36;0,00;EUR
+2025-07-25;16:05:05;Executed;"SCALqVXeywMZrWd";"Leverage Shares 3x AMD ETP Securities";Security;Sell;XS2337090422;1.000;0,831;831,00;0,00;29,63;EUR
+2025-07-25;13:12:06;Executed;"SCALTTKtYPBuYGG";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;100;3,83;-383,00;0,00;0,00;EUR
+2025-07-25;10:05:55;Executed;"SCALp4DK1BFQ3kz";"Leverage Shares -3x Short Tesla ETP";Security;Sell;XS2706232803;3.000;0,102;306,00;0,00;12,97;EUR
+2025-07-25;02:00:00;Executed;"CTKIPWI9D0X9Z6AR";"PRIME+ subscription";Cash;Fee;;;;-4,99;0,00;;EUR
+2025-07-24;20:59:27;Cancelled;"SCALfdue1ohcWrt";"Leverage Shares -3x Short Tesla ETP";Security;Sell;XS2706232803;0;0,00;0,00;0,00;0,00;EUR
+2025-07-24;20:58:37;Cancelled;"SCALmvvUi8qLQw2";"Leverage Shares -3x Short Tesla ETP";Security;Sell;XS2706232803;0;0,00;0,00;0,00;0,00;EUR
+2025-07-24;17:43:11;Cancelled;"SCALL6FcibiQ2Kq";"Leverage Shares -3x Short Tesla ETP";Security;Buy;XS2706232803;0;0,00;0,00;0,00;0,00;EUR
+2025-07-24;16:14:31;Cancelled;"SCALGyZmq3DiV5b";"Leverage Shares -3x Short Tesla ETP";Security;Sell;XS2706232803;0;0,00;0,00;0,00;0,00;EUR
+2025-07-24;14:06:28;Executed;"SCALDaiMQLmpx1X";"Alphabet A";Security;Sell;US02079K3059;5;168,00;840,00;0,00;0,00;EUR
+2025-07-24;11:47:43;Executed;"SCALDshu4MTUYv1";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;70;13,454;-941,78;0,00;0,00;EUR
+2025-07-24;10:17:57;Executed;"SCALiBaDnNvLtBe";"Leverage Shares 3x Alphabet ETP Securities";Security;Sell;IE00BK5BZX59;6;45,738;274,428;0,00;15,45;EUR
+2025-07-24;08:47:26;Executed;"SCALtHAQhUa1p87";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Buy;XS2399367502;100;4,1968;-419,68;0,00;0,00;EUR
+2025-07-24;02:00:00;Executed;"AASE 81835811";"";Cash;Taxes;;;;3,10;0,00;;EUR
+2025-07-22;21:38:36;Executed;"SCALJ6PNRqMEFBF";"Leverage Shares 3x Alphabet ETP Securities";Security;Sell;IE00BK5BZX59;6;42,004;252,024;0,00;9,54;EUR
+2025-07-22;16:49:51;Executed;"SCAL7xujbki2wdP";"Leverage Shares 3x Long Artificial Intelligence";Security;Sell;XS2779861751;9;30,07;270,63;0,00;21,69;EUR
+2025-07-22;10:42:31;Executed;"SCALNcUjP8QAxMZ";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,7079;-353,95;0,00;0,00;EUR
+2025-07-21;21:44:39;Cancelled;"SCALpRmYHYSYnjV";"Leverage Shares 2x Micron Technology ETP Securities";Security;Buy;IE00BKT66K01;0;0,00;0,00;0,00;0,00;EUR
+2025-07-21;18:23:26;Executed;"SCAL6j9diCXt3Vm";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;30;13,778;-413,34;0,00;0,00;EUR
+2025-07-21;17:01:33;Executed;"SCALRYpFFXoYLTH";"Micron Technology";Security;Buy;US5951121038;10;98,73;-987,30;0,00;0,00;EUR
+2025-07-21;16:35:54;Cancelled;"SCALTENqXNTNKhQ";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-07-21;16:15:55;Executed;"SCALv7zjCUCafwe";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;35;14,05;491,75;0,00;15,51;EUR
+2025-07-21;15:33:08;Executed;"SCALVrDfh3LNJoZ";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;100;3,7882;-378,82;0,00;0,00;EUR
+2025-07-21;07:34:54;Executed;"SCALevgQR8oGSEw";"Leverage Shares 3x Amazon ETP";Security;Buy;IE00BK5BZQ82;50;9,1025;-455,125;0,00;0,00;EUR
+2025-07-18;20:44:59;Executed;"SCALNavRkpzQJQP";"Vistra Corp";Security;Sell;US92840M1027;2;167,30;334,60;0,00;1,03;EUR
+2025-07-18;17:20:48;Executed;"SCALGv3EGWthcSf";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,7447;-372,35;0,00;0,00;EUR
+2025-07-18;17:13:26;Executed;"SCALaA1cLZAbf6M";"Leverage Shares -3x Short Tesla ETP";Security;Buy;XS2706232803;3.000;0,0856;-256,80;0,00;0,00;EUR
+2025-07-18;14:44:07;Executed;"SCALT71HvBGCf4u";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;200;4,0012;800,24;0,00;46,01;EUR
+2025-07-18;12:32:55;Executed;"SCALp3B2fuHvzcJ";"Leverage Shares 3x Alibaba ETP";Security;Sell;XS2337090851;150;3,8674;580,11;0,00;14,73;EUR
+2025-07-17;17:47:47;Executed;"SCALTTiAfrQzwsf";"Microsoft";Security;Sell;US5949181045;1;442,00;442,00;0,00;6,69;EUR
+2025-07-17;10:13:00;Executed;"SCALP7cNvy4LQa6";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;100;3,445;-344,50;0,00;0,00;EUR
+2025-07-16;21:39:42;Executed;"SCAL1npQj9g4Vyr";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,7039;-351,95;0,00;0,00;EUR
+2025-07-16;20:07:01;Executed;"SCALscaqAhgWjDj";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;30;13,20;396,00;0,00;6,16;EUR
+2025-07-15;19:14:35;Executed;"SCALh2pFrZW9WfV";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;20;31,002;620,04;0,00;17,36;EUR
+2025-07-15;16:56:54;Executed;"SCALM6gQjkWt4wc";"Leverage Shares 3x AMD ETP Securities";Security;Buy;XS2337090422;500;0,7334;-366,70;0,00;0,00;EUR
+2025-07-15;15:55:07;Executed;"SCALHUFUMmJoHf5";"Vistra Corp";Security;Buy;US92840M1027;2;165,35;-330,70;0,00;0,00;EUR
+2025-07-15;15:30:25;Executed;"SCAL4XZg9SXTcaK";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Buy;XS2399367502;100;4,4672;-446,72;0,00;0,00;EUR
+2025-07-15;15:30:06;Cancelled;"SCALwnkoU1gTzby";"Leverage Shares 3x Long Semiconductors ETP Securities";Security;Buy;XS2399367502;0;0,00;0,00;0,00;0,00;EUR
+2025-07-14;18:24:09;Executed;"SCALMahNQ2qUowG";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;25;13,02;-325,50;0,00;0,00;EUR
+2025-07-14;15:32:45;Executed;"SCALKn5qdJvERWc";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;20;13,05;261,00;0,00;1,42;EUR
+2025-07-14;02:00:00;Executed;"WWEK 49054658";"Taiwan Semiconductor Manufact. ADR";Cash;Distribution;US8740391003;;;4,72;0,00;2,74;EUR
+2025-07-11;19:23:33;Executed;"SCALhvdEKGdKXdg";"Leverage Shares 3x Alphabet ETP Securities";Security;Sell;IE00BK5BZX59;20;35,828;716,56;0,00;0,00;EUR
+2025-07-11;18:56:02;Executed;"SCALgcbevJVSkbF";"Advanced Micro Devices";Security;Sell;US0079031078;5;125,02;625,10;0,00;0,00;EUR
+2025-07-11;16:41:47;Executed;"SCALvpn9JQWa6rH";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;5;44,626;223,13;0,99;46,47;EUR
+2025-07-11;02:00:00;Executed;"AASE 81241120";"";Cash;Taxes;;;;9,96;0,00;;EUR
+2025-07-10;13:11:45;Executed;"SCALABTKtQcGJ9Y";"NVIDIA";Security;Sell;US67066G1040;5;140,00;700,00;0,00;16,63;EUR
+2025-07-09;16:05:51;Executed;"SCAL5RG4RHKrQPi";"Microsoft";Security;Sell;US5949181045;1;431,35;431,35;0,00;9,76;EUR
+2025-07-09;15:42:21;Executed;"SCALXzffy8qsFa7";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;15;42,034;630,51;0,00;138,03;EUR
+2025-07-09;15:37:11;Cancelled;"SCALGhno4Zm13Ss";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-07-09;15:36:51;Executed;"SCALwTh8Aee33pU";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;15;41,488;622,32;0,00;136,44;EUR
+2025-07-09;10:31:36;Executed;"SCALg7kX3FPdhFw";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;150;2,6968;-404,52;0,00;0,00;EUR
+2025-07-09;07:35:10;Executed;"SCALFckDBpSfesu";"iShares Physical Gold ETC";Security;Buy;IE00B4ND3602;20;54,55;-1.091,00;0,00;0,00;EUR
+2025-07-08;18:02:04;Cancelled;"SCAL76XnCD9VhQ8";"iShares Physical Gold ETC";Security;Buy;IE00B4ND3602;0;0,00;0,00;0,00;0,00;EUR
+2025-07-07;20:22:57;Cancelled;"SCALmc5jBJMqQAb";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-07-04;02:00:00;Executed;"WWEK 48815857";"NVIDIA";Cash;Distribution;US67066G1040;;;0,28;0,00;0,21;EUR
+2025-07-03;21:15:43;Cancelled;"SCALLFzHJZfatR1";"NVIDIA";Security;Sell;US67066G1040;0;0,00;0,00;0,00;0,00;EUR
+2025-07-03;21:15:29;Cancelled;"SCALd3YCGmZxuZ1";"Leverage Shares 3x Long Artificial Intelligence";Security;Sell;XS2779861751;0;0,00;0,00;0,00;0,00;EUR
+2025-07-03;21:15:19;Cancelled;"SCAL39TFYjkyBSz";"Leverage Shares 5x Long Magnificent 7";Security;Sell;XS2779861249;0;0,00;0,00;0,00;0,00;EUR
+2025-07-03;21:15:07;Cancelled;"SCALc58vk8DmRBu";"Leverage Shares 3x Alphabet ETP Securities";Security;Sell;IE00BK5BZX59;0;0,00;0,00;0,00;0,00;EUR
+2025-07-03;19:04:32;Cancelled;"SCAL7hZ5MxHVc2c";"Leverage Shares 3x Alphabet ETP Securities";Security;Sell;IE00BK5BZX59;0;0,00;0,00;0,00;0,00;EUR
+2025-07-03;18:00:20;Executed;"SCALaVXBZbFWt7M";"Microsoft";Security;Sell;US5949181045;1;425,00;425,00;0,00;0,00;EUR
+2025-07-03;17:28:56;Executed;"SCAL4Mn7P2nrs6V";"Taiwan Semiconductor Manufact. ADR";Security;Sell;US8740391003;2;201,00;402,00;0,00;0,00;EUR
+2025-07-03;17:26:02;Executed;"SCALzU7fbSDj47V";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;20;38,912;778,24;0,00;44,13;EUR
+2025-07-03;17:08:45;Cancelled;"SCALxTM3o1c8Y8T";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-07-03;17:07:04;Executed;"SCALrjhn72MCvpf";"WisdomTree S&P 500 5x Daily Leveraged";Security;Sell;XS2771643025;15;26,008;390,12;0,00;0,00;EUR
+2025-07-03;17:04:56;Executed;"SCALcCf3qqe51rq";"NVIDIA";Security;Sell;US67066G1040;5;135,52;677,60;0,00;0,00;EUR
+2025-07-03;17:04:22;Executed;"SCALd9cuyiLgxyr";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;15;38,606;579,09;0,00;0,00;EUR
+2025-07-03;16:48:49;Executed;"SCALoYiNcFwKyHZ";"Leverage Shares 5x Long Magnificent 7";Security;Sell;XS2779861249;50;16,72;836,00;0,00;0,00;EUR
+2025-07-03;16:45:55;Executed;"SCALfRuhu2wjxaA";"NVIDIA";Security;Sell;US67066G1040;10;136,10;1.361,00;0,00;0,00;EUR
+2025-07-03;16:44:17;Executed;"SCALuwBRsZCz4w8";"NVIDIA";Security;Sell;US67066G1040;8;136,08;1.088,64;0,00;0,00;EUR
+2025-07-03;16:43:38;Executed;"SCAL6DML9fDz4NZ";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;20;39,028;780,56;0,00;0,00;EUR
+2025-07-03;15:33:29;Executed;"SCALU4Ld1yLfwfs";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;40;12,65;506,00;0,00;0,00;EUR
+2025-07-03;07:30:07;Executed;"SCALQmegqtxLTe9";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;150;2,9782;-446,73;0,00;0,00;EUR
+2025-07-03;02:00:00;Executed;"WWEK 48617345";"Vanguard S&P 500 (Dist)";Cash;Distribution;IE00B3XXRP09;;;0,61;0,00;0,00;EUR
+2025-07-02;21:50:29;Executed;"SCALBbWM2mgofrT";"Taiwan Semiconductor Manufact. ADR";Security;Sell;US8740391003;2;197,60;395,20;0,00;0,00;EUR
+2025-07-02;20:59:56;Executed;"SCALWnQ9ngimw28";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;50;12,30;615,00;0,00;0,00;EUR
+2025-07-02;19:13:11;Cancelled;"SCALLNX77hpeRtk";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;0;0,00;0,00;0,00;0,00;EUR
+2025-07-02;15:33:34;Executed;"SCALEsCT9HbcB9j";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;25;12,002;300,05;0,00;0,00;EUR
+2025-06-30;15:33:18;Executed;"SCALcgid8FSjjHE";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;100;3,2796;-327,96;0,00;0,00;EUR
+2025-06-30;14:46:22;Cancelled;"SCAL2rSp7LQd2dm";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-06-30;09:06:13;Executed;"SCALvQ6eZWeRiZW";"Leverage Shares 3x Alphabet ETP Securities";Security;Buy;IE00BK5BZX59;40;35,97;-1.438,80;0,00;0,00;EUR
+2025-06-30;07:52:09;Cancelled;"SCALCH9THzt49oc";"iShares Blockchain Technology (Acc)";Security;Sell;IE000RDRMSD1;0;0,00;0,00;0,00;0,00;EUR
+2025-06-30;07:51:54;Cancelled;"SCALeQjJ27jMw9F";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-06-30;02:00:00;Executed;"WWEK 48231737";"Meta Platforms A";Cash;Distribution;US30303M1027;;;0,38;0,00;0,18;EUR
+2025-06-30;02:00:00;Executed;"52025002";"KKT-Abschluss";Cash;Interest;;;;0,52;0,00;0,00;EUR
+2025-06-27;21:10:37;Cancelled;"SCALbJFsyVwtNiL";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;0;0,00;0,00;0,00;0,00;EUR
+2025-06-27;11:11:17;Executed;"SCALbora5i7r5sa";"Leverage Shares 3x Alibaba ETP";Security;Buy;XS2337090851;150;3,4948;-524,22;0,00;0,00;EUR
+2025-06-27;10:00:02;Executed;"SCALd9fTRrMV25d";"Taiwan Semiconductor Manufact. ADR";Security;Sell;US8740391003;4;192,00;768,00;0,00;0,00;EUR
+2025-06-26;16:17:32;Executed;"SCALxp35ZzpS2vY";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;20;36,70;734,00;0,00;0,00;EUR
+2025-06-26;07:05:02;Cancelled;"SCALLao9auR8SKR";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-06-25;22:31:29;Cancelled;"SCALKFyzCNveYHr";"Leverage Shares 3x Tesla";Security;Buy;XS2757381400;0;0,00;0,00;0,00;0,00;EUR
+2025-06-25;22:02:23;Executed;"SCALJFsST3uaVJd";"Advanced Micro Devices";Security;Sell;US0079031078;8;123,32;986,56;0,00;0,00;EUR
+2025-06-25;16:40:53;Executed;"SCALRPWUWWKBSg9";"Leverage Shares 3x Long Artificial Intelligence";Security;Sell;XS2779861751;20;27,40;548,00;0,00;0,00;EUR
+2025-06-25;16:18:05;Executed;"SCALxzUjaegXqKV";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;9;34,20;307,80;0,00;0,00;EUR
+2025-06-25;15:32:11;Cancelled;"SCAL48Gm5NyEw2p";"Leverage Shares 3x Long Artificial Intelligence";Security;Sell;XS2779861751;0;0,00;0,00;0,00;0,00;EUR
+2025-06-25;02:00:00;Executed;"MDCW43OS5L3ADZSG";"PRIME+ subscription";Cash;Fee;;;;-4,99;0,00;;EUR
+2025-06-24;12:48:14;Executed;"SCALaQRT6i3QnHM";"21Shares Cardano ETP";Security;Buy;CH1102728750;27;9,2685;-250,2495;1,72;0,00;EUR
+2025-06-23;16:19:20;Executed;"SCALB9mBx4adL6J";"Leverage Shares 3x Tesla";Security;Sell;XS2757381400;150;13,555;2.033,25;0,99;0,00;EUR
+2025-06-18;02:00:00;Executed;"WWEK 47639447";"Alphabet A";Cash;Distribution;US02079K3059;;;1,43;0,00;0,60;EUR
+2025-06-13;11:37:35;Executed;"SCALzX6Y7MFzCrw";"Leverage Shares 3x Tesla";Security;Buy;XS2757381400;50;9,80;-490,00;0,99;0,00;EUR
+2025-06-13;02:00:00;Executed;"WWEK 47276865";"Microsoft";Cash;Distribution;US5949181045;;;2,37;0,00;1,02;EUR
+2025-06-11;10:27:38;Executed;"SCALk5GxmWprXBh";"Leverage Shares 3x Tesla";Security;Buy;XS2757381400;100;12,529;-1.252,90;0,99;0,00;EUR
+2025-06-10;12:50:20;Executed;"SCALYoEeeptxVL4";"Leverage Shares 5x Long Magnificent 7";Security;Buy;XS2779861249;100;14,67;-1.467,00;0,99;0,00;EUR
+2025-06-09;15:30:54;Executed;"SCALp2XFYGuShqr";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;50;30,10;1.505,00;0,99;0,00;EUR
+2025-06-05;17:54:23;Cancelled;"SCALAr7EiegdKos";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-05-29;20:49:28;Executed;"SCALuRDvRAwQcBC";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;30;10,044;-301,32;0,00;0,00;EUR
+2025-05-29;08:21:31;Cancelled;"SCALwR7SoYBbktJ";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-05-28;13:09:19;Cancelled;"SCALh69mLoA89Aa";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-05-27;19:46:12;Executed;"SCALoL5211nR8iu";"Tesla";Security;Sell;US88160R1014;1;320,40;320,40;0,99;0,00;EUR
+2025-05-23;17:59:47;Executed;"SCALchvdJ6CNCjS";"Apple";Security;Buy;US0378331005;2;173,00;-346,00;0,99;0,00;EUR
+2025-05-22;16:07:23;Executed;"SCALkFr4WzALPKC";"Alphabet A";Security;Buy;US02079K3059;5;156,24;-781,20;0,99;0,00;EUR
+2025-05-20;15:36:44;Executed;"SCALL4dByYEtJoM";"Tesla";Security;Sell;US88160R1014;1;315,15;315,15;0,99;0,00;EUR
+2025-05-16;02:00:00;Executed;"WWEK 45702548";"Apple";Cash;Distribution;US0378331005;;;1,28;0,00;0,56;EUR
+2025-05-15;12:05:38;Executed;"SCALcoHCS6Qff4F";"iShares Physical Gold ETC";Security;Buy;IE00B4ND3602;17;54,99;-934,83;0,00;0,00;EUR
+2025-05-14;17:46:09;Executed;"SCALXGHKW3FCzxc";"iShares Physical Silver ETC (Acc)";Security;Buy;IE00B4NCWG09;23;27,552;-633,696;0,00;0,00;EUR
+2025-05-13;16:03:48;Cancelled;"SCALnwjyp1GTnQj";"Microsoft";Security;Sell;US5949181045;0;0,00;0,00;0,00;0,00;EUR
+2025-05-12;13:43:45;Executed;"SCAL9iPRRTmdmVL";"Amundi MSCI World  (Acc)";Security;Sell;IE000BI8OT95;0,605;125,185;75,736925;0,99;0,00;EUR
+2025-05-12;09:20:47;Cancelled;"SCALhkm3TRMHB6q";"Taiwan Semiconductor Manufact. ADR";Security;Buy;US8740391003;0;0,00;0,00;0,00;0,00;EUR
+2025-05-12;09:20:19;Cancelled;"SCAL1P1Kav3t5Qv";"Leverage Shares 3x Long Artificial Intelligence";Security;Buy;XS2779861751;0;0,00;0,00;0,00;0,00;EUR
+2025-05-12;09:20:08;Cancelled;"SCAL6qSoFjYVUQV";"iShares MSCI Global Semiconductors (Acc)";Security;Buy;IE000I8KRLL9;0;0,00;0,00;0,00;0,00;EUR
+2025-05-12;09:19:47;Cancelled;"SCALTKvNtdGxHpQ";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;0;0,00;0,00;0,00;0,00;EUR
+2025-05-12;09:19:36;Cancelled;"SCALvUpJRDgKSjm";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-05-12;09:19:28;Cancelled;"SCALTaaDNvHS33n";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-05-12;08:28:53;Cancelled;"SCALUjZz4TkdNWR";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;0;0,00;0,00;0,00;0,00;EUR
+2025-05-08;18:10:24;Executed;"SCALi4aFhKhMNgS";"Microsoft";Security;Sell;US5949181045;2;394,00;788,00;0,99;0,00;EUR
+2025-05-08;07:30:05;Executed;"SCALAYbSpvLk8Nv";"Broadcom";Security;Sell;US11135F1012;3,342;184,98;618,20316;0,99;0,00;EUR
+2025-05-06;02:00:00;Executed;"WWEK 45028193";"ASML Holding";Cash;Distribution;NL0010273215;;;2,91;0,00;0,51;EUR
+2025-05-02;18:02:26;Executed;"SCALNSRJrsgdSuv";"Xtrackers Artificial Intelligence & Big Data (Acc)";Security;Sell;IE00BGV5VN51;4;122,54;490,16;0,99;0,00;EUR
+2025-04-16;02:00:00;Executed;"WWEK 44367775";"Taiwan Semiconductor Manufact. ADR";Cash;Distribution;US8740391003;;;3,98;0,00;1,05;EUR
+2025-04-14;11:17:02;Executed;"SCAL2SjCRYGWyCb";"iShares Physical Silver ETC (Acc)";Security;Savings plan;IE00B4NCWG09;3,688;27,114;-99,996432;0,00;0,00;EUR
+2025-04-11;02:00:00;Executed;"8MSQ8JGL3BACB1WVEGVAEV";"Scalable Capital Broker savings plan";Cash;Deposit;;;;100,00;0,00;;EUR
+2025-04-10;17:13:21;Executed;"SCALPgthh4WbpnM";"Xtrackers Artificial Intelligence & Big Data (Acc)";Security;Savings plan;IE00BGV5VN51;0,888;112,50;-99,90;0,00;0,00;EUR
+2025-04-10;17:09:04;Executed;"SCALWZDzkiDDUZv";"Advanced Micro Devices";Security;Savings plan;US0079031078;1,862;80,54;-149,96548;0,00;0,00;EUR
+2025-04-10;17:04:42;Executed;"SCALyiY3oUX2tdh";"iShares MSCI Global Semiconductors (Acc)";Security;Savings plan;IE000I8KRLL9;18,793;5,321;-99,997553;0,00;0,00;EUR
+2025-04-10;17:02:01;Executed;"SCALZBFKSjhKc38";"WisdomTree S&P 500 5x Daily Leveraged";Security;Savings plan;XS2771643025;7,763;12,88;-99,98744;0,00;0,00;EUR
+2025-04-10;16:58:50;Executed;"SCAL4V2ZGZVHysa";"Apple";Security;Savings plan;US0378331005;1,177;169,92;-199,99584;0,00;0,00;EUR
+2025-04-10;16:56:33;Executed;"SCAL8V4u5uE4HFC";"Broadcom";Security;Savings plan;US11135F1012;1,27;157,36;-199,8472;0,00;0,00;EUR
+2025-04-10;16:51:38;Executed;"SCALFVFNpeBAAVi";"Invesco MSCI World (Acc)";Security;Savings plan;IE00B60SX394;1,035;96,576;-99,95616;0,00;0,00;EUR
+2025-04-10;16:45:36;Executed;"SCALpxNrdFF8gjF";"Xtrackers Nasdaq 100 (Acc)";Security;Savings plan;IE00BMFKG444;2,596;38,52;-99,99792;0,00;0,00;EUR
+2025-04-10;16:38:04;Executed;"SCALJd5YUGsLwJj";"Taiwan Semiconductor Manufact. ADR";Security;Savings plan;US8740391003;1,451;137,80;-199,9478;0,00;0,00;EUR
+2025-04-10;16:35:36;Executed;"SCALLcpcN9dDEMK";"ASML Holding";Security;Savings plan;NL0010273215;0,169;591,20;-99,9128;0,00;0,00;EUR
+2025-04-10;16:33:01;Executed;"SCALmQZLiL74Qyd";"iShares S&P 500 Information Technology Sector (Acc)";Security;Savings plan;IE00B3WJKG14;3,936;25,405;-99,99408;0,00;0,00;EUR
+2025-04-10;16:32:12;Executed;"SCALXcfNCmEyiqi";"Microsoft";Security;Savings plan;US5949181045;0,588;340,10;-199,9788;0,00;0,00;EUR
+2025-04-10;16:19:41;Executed;"SCAL4Rj3i5kVjr6";"NVIDIA";Security;Savings plan;US67066G1040;2,57;97,27;-249,9839;0,00;0,00;EUR
+2025-04-10;16:17:06;Executed;"SCALHhQLaHZYtDe";"Meta Platforms A";Security;Savings plan;US30303M1027;0,399;501,00;-199,899;0,00;0,00;EUR
+2025-04-09;20:51:31;Cancelled;"SCALdyPLGu1viAV";"iShares MSCI India (Acc)";Security;Buy;IE00BZCQB185;0;0,00;0,00;0,00;0,00;EUR
+2025-04-09;20:50:58;Cancelled;"SCALE6CeKxVimKd";"Apple";Security;Buy;US0378331005;0;0,00;0,00;0,00;0,00;EUR
+2025-04-09;20:45:59;Cancelled;"SCALy562KWbEBJV";"Advanced Micro Devices";Security;Buy;US0079031078;0;0,00;0,00;0,00;0,00;EUR
+2025-04-09;20:36:09;Cancelled;"SCAL5ZY72tnfBP1";"Tesla";Security;Buy;US88160R1014;0;0,00;0,00;0,00;0,00;EUR
+2025-04-09;18:08:04;Cancelled;"SCALWQHyGsL5Hhh";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;0;0,00;0,00;0,00;0,00;EUR
+2025-04-09;02:00:00;Executed;"F7URTX92QBARGG2RZ7ZHH4";"Scalable Capital Broker 14x savingsplan";Cash;Deposit;;;;2.100,00;0,00;;EUR
+2025-04-08;02:00:00;Executed;"954809732";"Transferred with Deutsche Bank Mobile";Cash;Deposit;;;;1.500,00;0,00;;EUR
+2025-04-07;11:48:15;Executed;"SCALhbSXak9W57K";"NVIDIA";Security;Savings plan;US67066G1040;3,053;81,88;-249,97964;0,00;0,00;EUR
+2025-04-07;11:42:41;Executed;"SCALrXjBo3nuJeU";"Amazon.com";Security;Savings plan;US0231351067;1,33;150,32;-199,9256;0,00;0,00;EUR
+2025-04-07;11:42:07;Executed;"SCALjezSXX3kcqu";"Leverage Shares 3x NVIDIA";Security;Savings plan;XS2820604770;26,628;9,3885;-249,996978;0,00;0,00;EUR
+2025-04-07;11:32:38;Executed;"SCAL48bQf3X6VZo";"Alphabet A";Security;Savings plan;US02079K3059;1,569;127,40;-199,8906;0,00;0,00;EUR
+2025-04-07;11:14:31;Executed;"SCALd1m8jjG5qGJ";"Leverage Shares 3x Long Artificial Intelligence";Security;Savings plan;XS2779861751;9,541;10,48;-99,98968;0,00;0,00;EUR
+2025-04-07;11:03:02;Executed;"SCALxzwcCCK4f3L";"iShares Blockchain Technology (Acc)";Security;Savings plan;IE000RDRMSD1;14,263;7,011;-99,997893;0,00;0,00;EUR
+2025-04-07;08:49:07;Executed;"SCALvRCyAa92r1y";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;30;7,00;-210,00;0,99;0,00;EUR
+2025-04-07;08:41:56;Executed;"SCALMtFeaEYYxmy";"WisdomTree S&P 500 5x Daily Leveraged";Security;Buy;XS2771643025;10;9,056;-90,56;0,99;0,00;EUR
+2025-04-07;08:31:27;Executed;"SCALLDDAgwq7k5v";"iShares Physical Gold ETC";Security;Sell;IE00B4ND3602;10;53,245;532,45;0,99;0,00;EUR
+2025-04-07;07:46:48;Executed;"SCALLWe7t3bmZrJ";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;10;8,2605;-82,605;0,99;0,00;EUR
+2025-04-07;02:00:00;Executed;"954729156";"Transferred with Deutsche Bank Mobile";Cash;Deposit;;;;1.500,00;0,00;;EUR
+2025-04-04;16:42:45;Cancelled;"SCALNj3J8W8sMz3";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-04-04;13:15:33;Executed;"SCALvKnkUj5oEcy";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;15;11,998;-179,97;0,99;0,00;EUR
+2025-04-04;12:10:43;Executed;"SCALnQ6cqRDDX6Y";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;10;13,468;-134,68;0,99;0,00;EUR
+2025-04-04;02:00:00;Executed;"Q5WBQP1F8TYXH8XRMUPBS3";"Scalable Capital Broker 6x savings plan";Cash;Deposit;;;;1.100,00;0,00;;EUR
+2025-04-03;02:00:00;Executed;"WWEK 44093681";"Vanguard S&P 500 (Dist)";Cash;Distribution;IE00B3XXRP09;;;0,67;0,00;0,00;EUR
+2025-04-03;02:00:00;Executed;"WWEK 43998586";"NVIDIA";Cash;Distribution;US67066G1040;;;0,34;0,00;0,14;EUR
+2025-04-01;14:10:34;Executed;"SCALyx3kMEZnp6A";"Broadcom";Security;Savings plan;US11135F1012;0,643;155,28;-99,84504;0,00;0,00;EUR
+2025-04-01;14:09:35;Executed;"SCALTaEsMofgsUe";"Taiwan Semiconductor Manufact. ADR";Security;Savings plan;US8740391003;1,295;154,40;-199,948;0,00;0,00;EUR
+2025-04-01;13:22:25;Executed;"SCALC8nvwpd6DMD";"Xtrackers Nasdaq 100 (Acc)";Security;Savings plan;IE00BMFKG444;2,434;41,075;-99,97655;0,00;0,00;EUR
+2025-04-01;13:20:35;Executed;"SCALmuie8ycshax";"Advanced Micro Devices";Security;Savings plan;US0079031078;1,579;94,95;-149,92605;0,00;0,00;EUR
+2025-04-01;02:00:00;Executed;"WWEK 43579202";"Broadcom";Cash;Distribution;US11135F1012;;;0,54;0,00;0,24;EUR
+2025-03-31;15:28:13;Executed;"SCALg1e6X6Apy6x";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;10;15,984;-159,84;0,99;0,00;EUR
+2025-03-31;14:40:24;Cancelled;"SCALWEyZNBJuFBr";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-03-31;02:00:00;Executed;"OELHBT5HW4FH7KMWVKNZJS";"Scalable Capital Broker 4x savings plan";Cash;Deposit;;;;550,00;0,00;;EUR
+2025-03-28;17:58:57;Executed;"SCALxcQSv2484zY";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;15;8,41;-126,15;0,99;0,00;EUR
+2025-03-28;17:58:02;Executed;"SCALZDVPnPzKFCj";"Leverage Shares 3x Long Artificial Intelligence";Security;Buy;XS2779861751;7;19,87;-139,09;0,99;0,00;EUR
+2025-03-28;17:53:26;Executed;"SCALdcrZFjsdGQ6";"iShares MSCI Global Semiconductors (Acc)";Security;Buy;IE000I8KRLL9;16;5,989;-95,824;0,99;0,00;EUR
+2025-03-27;01:00:00;Executed;"WWEK 43298201";"Meta Platforms A";Cash;Distribution;US30303M1027;;;0,23;0,00;0,10;EUR
+2025-03-25;11:18:33;Executed;"SCALZy4Prb8hEAk";"Meta Platforms A";Security;Savings plan;US30303M1027;0,174;572,90;-99,6846;0,00;0,00;EUR
+2025-03-24;01:00:00;Executed;"ATHDAQ1KCS16GTNMYVR2MB";"Scalable Capital Broker savings plan";Cash;Deposit;;;;100,00;0,00;;EUR
+2025-03-19;16:27:09;Executed;"SCAL2YjY3M9ak9m";"Apple";Security;Savings plan;US0378331005;1,009;198,18;-199,96362;0,00;0,00;EUR
+2025-03-18;13:11:07;Executed;"SCALnZdf7dzWeUS";"Intel Corp";Security;Sell;US4581401001;9,995;23,545;235,332275;0,99;0,00;EUR
+2025-03-18;01:00:00;Executed;"8VUKE46ZRY3V2QBRQCJA9P";"Scalable Capital Broker savings plan";Cash;Deposit;;;;200,00;0,00;;EUR
+2025-03-18;01:00:00;Executed;"WWEK 42984609";"Alphabet A";Cash;Distribution;US02079K3059;;;0,58;0,00;0,26;EUR
+2025-03-17;11:08:32;Executed;"SCALWJHVc5knH8u";"WisdomTree S&P 500 5x Daily Leveraged";Security;Savings plan;XS2771643025;4,652;21,492;-99,980784;0,00;0,00;EUR
+2025-03-14;01:00:00;Executed;"WWEK 42706679";"Microsoft";Cash;Distribution;US5949181045;;;2,98;0,00;1,26;EUR
+2025-03-14;01:00:00;Executed;"GRMSEKUV1ICGJGDYJLHHCW";"Scalable Capital Broker savings plan";Cash;Deposit;;;;100,00;0,00;;EUR
+2025-03-13;12:05:02;Executed;"SCALruxsA8b1LzB";"iShares Physical Silver ETC (Acc)";Security;Savings plan;IE00B4NCWG09;3,427;29,172;-99,972444;0,00;0,00;EUR
+2025-03-13;11:41:59;Executed;"SCALFuDR4ULSG3o";"iShares S&P 500 Information Technology Sector (Acc)";Security;Savings plan;IE00B3WJKG14;3,579;27,94;-99,99726;0,00;0,00;EUR
+2025-03-12;13:17:24;Executed;"SCALo7BaYWA63AK";"Tesla";Security;Buy;US88160R1014;1;220,40;-220,40;0,99;0,00;EUR
+2025-03-12;07:35:16;Executed;"SCALtf5DVkRy3Qa";"iShares Physical Silver ETC (Acc)";Security;Sell;IE00B4NCWG09;24;28,748;689,952;0,99;0,00;EUR
+2025-03-12;06:31:11;Expired;"SCALTeU7MwxRzQU";"NVIDIA";Security;Sell;US67066G1040;0;0,00;0,00;0,00;0,00;EUR
+2025-03-12;01:00:00;Executed;"AWEYQVN99CJDTTU7J1PKGY";"Scalable Capital Broker 2x savings plan";Cash;Deposit;;;;200,00;0,00;;EUR
+2025-03-10;12:18:08;Executed;"SCALK5xuUGLwzed";"Xtrackers Artificial Intelligence & Big Data (Acc)";Security;Savings plan;IE00BGV5VN51;0,801;124,82;-99,98082;0,00;0,00;EUR
+2025-03-10;12:10:20;Executed;"SCALWJfjxSgfC28";"Microsoft";Security;Savings plan;US5949181045;0,557;359,05;-199,99085;0,00;0,00;EUR
+2025-03-10;11:24:37;Executed;"SCALVDU5CW7BdJn";"Invesco MSCI World (Acc)";Security;Savings plan;IE00B60SX394;1,033;106,39;-109,90087;0,00;0,00;EUR
+2025-03-07;18:01:23;Executed;"SCALQFW4RcDPL9E";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;6;19,10;-114,60;0,99;0,00;EUR
+2025-03-07;12:01:28;Executed;"SCAL2gED1ENdr81";"Amazon.com";Security;Savings plan;US0231351067;1,084;184,40;-199,8896;0,00;0,00;EUR
+2025-03-07;12:01:01;Executed;"SCALX8FhcW8AMf3";"Leverage Shares 3x NVIDIA";Security;Savings plan;XS2820604770;12,094;20,67;-249,98298;0,00;0,00;EUR
+2025-03-07;11:57:01;Executed;"SCALBcFnNJAJAUm";"NVIDIA";Security;Savings plan;US67066G1040;2,415;103,50;-249,9525;0,00;0,00;EUR
+2025-03-07;11:47:02;Executed;"SCALggmAwdyC1fQ";"Leverage Shares 3x Long Artificial Intelligence";Security;Savings plan;XS2779861751;4,366;22,90;-99,9814;0,00;0,00;EUR
+2025-03-07;11:35:48;Executed;"SCALLLQ56EbtLV3";"Alphabet A";Security;Savings plan;US02079K3059;1,259;158,84;-199,97956;0,00;0,00;EUR
+2025-03-07;11:15:04;Executed;"SCALx83LTJKjx72";"iShares Blockchain Technology (Acc)";Security;Savings plan;IE000RDRMSD1;10,537;9,49;-99,99613;0,00;0,00;EUR
+2025-03-07;01:00:00;Executed;"H66XGC9BZJ42UUJIRLEWBT";"Scalable Capital Broker 3x savings plan";Cash;Deposit;;;;410,00;0,00;;EUR
+2025-03-06;01:00:00;Executed;"QDSDGGDHZ8YUXMZ7TSE9G9";"Scalable Capital Broker 6x savings plan";Cash;Deposit;;;;1.100,00;0,00;;EUR
+2025-03-04;13:05:31;Executed;"SCALB5pgbUfJfmR";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;10;21,988;-219,88;0,99;0,00;EUR
+2025-03-04;09:41:18;Cancelled;"SCALXTv16m8jnv6";"21Shares Cardano ETP";Security;Buy;CH1102728750;0;0,00;0,00;0,00;0,00;EUR
+2025-03-03;19:24:54;Executed;"SCALRAVwBuRDeDA";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;10;25,536;-255,36;0,99;0,00;EUR
+2025-03-03;19:24:13;Executed;"SCALfYBH86Vyi3G";"Leverage Shares 3x Long Artificial Intelligence";Security;Buy;XS2779861751;4;25,38;-101,52;0,99;0,00;EUR
+2025-03-03;19:22:36;Executed;"SCALcKkL3Yw4vdu";"Amundi MSCI World  (Acc)";Security;Sell;IE000BI8OT95;5;131,885;659,425;0,99;0,00;EUR
+2025-03-03;19:00:57;Executed;"SCALsZrgcGHa6oh";"NVIDIA";Security;Buy;US67066G1040;1;111,22;-111,22;0,99;0,00;EUR
+2025-03-03;14:13:46;Executed;"SCAL3yLUGC52vSb";"Advanced Micro Devices";Security;Savings plan;US0079031078;1,552;96,64;-149,98528;0,00;0,00;EUR
+2025-03-03;14:07:15;Executed;"SCALAYTMMTHEt3Q";"Taiwan Semiconductor Manufact. ADR";Security;Savings plan;US8740391003;1,152;173,60;-199,9872;0,00;0,00;EUR
+2025-03-03;13:32:41;Executed;"SCALYvoq7UbuYmW";"Broadcom";Security;Savings plan;US11135F1012;0,512;195,12;-99,90144;0,00;0,00;EUR
+2025-03-03;13:18:47;Executed;"SCALZSbKXajAHLy";"Xtrackers Nasdaq 100 (Acc)";Security;Savings plan;IE00BMFKG444;2,154;46,405;-99,95637;0,00;0,00;EUR
+2025-02-28;01:00:00;Executed;"2TCLUTKFADO7B2DOH7XMBG";"Scalable Capital Broker 4x savings plan";Cash;Deposit;;;;550,00;0,00;;EUR
+2025-02-25;17:06:50;Executed;"SCALu1mfxmy3yAY";"Advanced Micro Devices";Security;Buy;US0079031078;1;100,90;-100,90;0,99;0,00;EUR
+2025-02-25;11:51:37;Executed;"SCAL5THF5BWVGub";"Meta Platforms A";Security;Savings plan;US30303M1027;0,157;634,40;-99,6008;0,00;0,00;EUR
+2025-02-25;11:42:48;Executed;"SCALy4ebhjJ6HCa";"NVIDIA";Security;Savings plan;US67066G1040;2,042;122,38;-249,89996;0,00;0,00;EUR
+2025-02-25;11:20:05;Executed;"SCALjer5gWibYj8";"Alphabet A";Security;Savings plan;US02079K3059;1,173;170,36;-199,83228;0,00;0,00;EUR
+2025-02-25;11:18:21;Executed;"SCALVpgk4k35T1X";"iShares Physical Gold ETC";Security;Savings plan;IE00B4ND3602;1,831;54,595;-99,963445;0,00;0,00;EUR
+2025-02-25;11:12:43;Executed;"SCAL3zZfz6z8TQB";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;15;10,41;-156,15;0,99;0,00;EUR
+2025-02-25;01:00:00;Executed;"WWUM 00442695717";"Amundi MSCI World V (Acc)";Security;Corporate action;LU1781541179;-38,628;18,120534327;-699,959999983356;;;EUR
+2025-02-25;01:00:00;Executed;"WWUM 00442695726";"Amundi MSCI World  (Acc)";Security;Corporate action;IE000BI8OT95;5,605;124,881355932;699,95999999886;;;EUR
+2025-02-24;14:54:54;Executed;"SCAL3d85LLgucqh";"Leverage Shares 3x Long Artificial Intelligence";Security;Buy;XS2779861751;5;32,35;-161,75;0,99;0,00;EUR
+2025-02-24;01:00:00;Executed;"JWJJ6IBBXQJ4ZGNQEMGDO2";"Scalable Capital Broker 5x savings plan";Cash;Deposit;;;;750,00;0,00;;EUR
+2025-02-19;13:41:17;Executed;"SCALcR3z1cuHLdo";"Apple";Security;Savings plan;US0378331005;0,852;234,50;-199,794;0,00;0,00;EUR
+2025-02-19;13:09:49;Executed;"SCALJHpYVnm6kbL";"Amazon.com";Security;Savings plan;US0231351067;0,921;217,05;-199,90305;0,00;0,00;EUR
+2025-02-19;01:00:00;Executed;"WWEK 42025841";"ASML Holding";Cash;Distribution;NL0010273215;;;2,18;0,00;0,39;EUR
+2025-02-18;17:50:34;Executed;"SCALw1dmFo7MPrH";"21Shares Cardano ETP";Security;Buy;CH1102728750;8;13,328;-106,624;2,04;0,00;EUR
+2025-02-18;01:00:00;Executed;"GH3RR8T1BBC2ZGBCCF5KDX";"Scalable Capital Broker 2x savings plan";Cash;Deposit;;;;400,00;0,00;;EUR
+2025-02-17;17:36:02;Executed;"SCALZjdzSHBsDv3";"Leverage Shares 3x Long Artificial Intelligence";Security;Sell;XS2779861751;5;35,82;179,10;0,99;0,00;EUR
+2025-02-14;01:00:00;Executed;"WWEK 41796054";"Apple";Cash;Distribution;US0378331005;;;0,83;0,00;0,34;EUR
+2025-02-13;11:58:04;Executed;"SCAL8KKSoxhAjr3";"iShares Physical Silver ETC (Acc)";Security;Savings plan;IE00B4NCWG09;3,378;29,60;-99,9888;0,00;0,00;EUR
+2025-02-13;11:51:54;Executed;"SCALACkUtsWFGhy";"iShares MSCI India (Acc)";Security;Savings plan;IE00BZCQB185;11,876;8,42;-99,9959;0,00;0,00;EUR
+2025-02-13;11:25:56;Executed;"SCALpyjjWTR6gFx";"iShares S&P 500 Information Technology Sector (Acc)";Security;Savings plan;IE00B3WJKG14;3,095;32,31;-99,9994;0,00;0,00;EUR
+2025-02-12;08:05:40;Executed;"SCAL6ZJEv5ibLNf";"Tesla";Security;Buy;US88160R1014;1;315,95;-315,95;0,99;0,00;EUR
+2025-02-12;01:00:00;Executed;"NNQEALJJYA8WH8AEIGMRF";"Scalable Capital Broker 3x savings plan";Cash;Deposit;;;;300,00;0,00;;EUR
+2025-02-11;20:34:58;Executed;"SCALqxnZn7HYmQt";"21Shares Cardano ETP";Security;Buy;CH1102728750;8;13,698;-109,584;2,07;0,00;EUR
+2025-02-11;07:26:12;Cancelled;"SCAL6C7trFv5axC";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-02-10;20:04:33;Cancelled;"SCALkYy9V7BW9rk";"NVIDIA";Security;Buy;US67066G1040;0;0,00;0,00;0,00;0,00;EUR
+2025-02-10;11:09:58;Executed;"SCALxmfbBvifmqk";"Xtrackers Artificial Intelligence & Big Data (Acc)";Security;Savings plan;IE00BGV5VN51;0,696;143,52;-99,8899;0,00;0,00;EUR
+2025-02-10;11:01:43;Executed;"SCAL6TAkYy66xdM";"Invesco MSCI World (Acc)";Security;Savings plan;IE00B60SX394;0,946;116,165;-109,892;0,00;0,00;EUR
+2025-02-07;01:00:00;Executed;"KVTWFL6BZIIJLJS7LKEAXA";"Scalable Capital Broker 2x savings plan";Cash;Deposit;;;;210,00;0,00;;EUR
+2025-02-05;15:37:00;Executed;"SCALngXhfG2NvFu";"Advanced Micro Devices";Security;Buy;US0079031078;2;103,00;-206,00;0,99;0,00;EUR
+2025-02-05;14:50:28;Executed;"SCALYjQTCoYDAXW";"Amazon.com";Security;Sell;US0231351067;1;229,35;229,35;0,99;0,00;EUR
+2025-02-05;13:53:42;Executed;"SCAL5vqXkQJWLwk";"Xtrackers MSCI World (Acc)";Security;Savings plan;IE00BJ0KDQ92;1,029;116,56;-119,9402;0,00;0,00;EUR
+2025-02-05;13:13:02;Executed;"SCALLW4TeJkvfYf";"WisdomTree S&P 500 5x Daily Leveraged";Security;Savings plan;XS2771643025;2,99;33,438;-99,9796;0,00;0,00;EUR
+2025-02-03;14:18:09;Executed;"SCALErdUJVpHP7U";"Apple";Security;Savings plan;US0378331005;0,888;225,05;-199,8444;0,00;0,00;EUR
+2025-02-03;14:13:16;Executed;"SCALzdhFSMG9c2c";"Amazon.com";Security;Savings plan;US0231351067;0,879;227,35;-199,8406;0,00;0,00;EUR
+2025-02-03;14:05:30;Executed;"SCALe29pZbWpLj6";"Broadcom";Security;Savings plan;US11135F1012;0,479;208,35;-99,7996;0,00;0,00;EUR
+2025-02-03;13:58:52;Executed;"SCALYXysuPTTKFE";"Xtrackers Nasdaq 100 (Acc)";Security;Savings plan;IE00BMFKG444;2,11;47,39;-99,9929;0,00;0,00;EUR
+2025-02-03;13:53:15;Executed;"SCALngNfcZzuN2G";"Advanced Micro Devices";Security;Savings plan;US0079031078;1,361;110,16;-149,9277;0,00;0,00;EUR
+2025-02-03;13:41:38;Executed;"SCALcqoH4Fo7rge";"ASML Holding";Security;Savings plan;NL0010273215;0,285;701,40;-199,899;0,00;0,00;EUR
+2025-02-03;13:36:28;Executed;"SCAL9pVPNPdbggC";"iShares Core S&P 500 (Acc)";Security;Savings plan;IE00B5BMR087;0,407;613,90;-249,8573;0,00;0,00;EUR
+2025-02-03;13:31:29;Executed;"SCALAhn8m2P17S9";"Taiwan Semiconductor Manufact. ADR";Security;Savings plan;US8740391003;1,011;197,80;-199,9758;0,00;0,00;EUR
+2025-02-03;09:16:11;Executed;"SCALufDi2B3BUzt";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;4;29,544;-118,176;0,99;0,00;EUR
+2025-02-03;08:34:02;Executed;"SCALYLLd1y3jSoC";"NVIDIA";Security;Buy;US67066G1040;3;111,74;-335,22;0,99;0,00;EUR
+2025-02-03;08:32:03;Cancelled;"SCALw4sNWaCuNFu";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-02-03;01:00:00;Executed;"BURBTQBFXYWFGSTD4UVUAP";"Scalable Capital Broker 2x savings plan";Cash;Deposit;;;;220,00;0,00;;EUR
+2025-01-31;01:00:00;Executed;"CD6ZA8QBVHSDSSVNQZRZDX";"Scalable Capital Broker 8x savings plan";Cash;Deposit;;;;1.400,00;0,00;;EUR
+2025-01-30;07:44:08;Cancelled;"SCALoH4FQbWBTPT";"NVIDIA";Security;Sell;US67066G1040;0;0,00;0,00;0,00;0,00;EUR
+2025-01-30;07:44:02;Cancelled;"SCAL3QvjwWUSYH3";"NVIDIA";Security;Sell;US67066G1040;0;0,00;0,00;0,00;0,00;EUR
+2025-01-29;13:00:01;Executed;"SCALKanXnF2HmXE";"Leverage Shares 3x Long Artificial Intelligence";Security;Buy;XS2779861751;10;29,28;-292,80;0,99;0,00;EUR
+2025-01-28;09:33:41;Executed;"SCALuQCa4QmYmTj";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;10;11,92;-119,20;0,99;0,00;EUR
+2025-01-28;01:00:00;Executed;"950595238";"Transferred with Deutsche Bank Mobile";Cash;Deposit;;;;1.500,00;0,00;;EUR
+2025-01-27;20:55:20;Cancelled;"SCALKTs2TkJ2EkX";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-27;18:42:18;Cancelled;"SCAL7d6mubwXJGm";"NVIDIA";Security;Sell;US67066G1040;0;0,00;0,00;0,00;0,00;EUR
+2025-01-27;18:42:00;Cancelled;"SCALeT6h5nvqRac";"Leverage Shares 3x Long Artificial Intelligence (Acc)";Security;Buy;XS2779861751;0;0,00;0,00;0,00;0,00;EUR
+2025-01-27;18:41:19;Cancelled;"SCALhk6xz7RNCnw";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-27;18:41:11;Cancelled;"SCAL9GCZE3uYVrR";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-27;18:36:21;Executed;"SCAL4SonEYwzbDR";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;5;34,95;-174,75;0,99;0,00;EUR
+2025-01-27;17:48:53;Cancelled;"SCALQNVgAhSg41w";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-27;17:47:27;Cancelled;"SCALPGtAYBQupi7";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;0;0,00;0,00;0,00;0,00;EUR
+2025-01-27;17:29:38;Executed;"SCALp4QpUQCF62B";"NVIDIA";Security;Buy;US67066G1040;5;113,68;-568,40;0,99;0,00;EUR
+2025-01-27;15:57:08;Executed;"SCALk2LsevtrS75";"iShares Blockchain Technology (Acc)";Security;Savings plan;IE000RDRMSD1;20,434;12,234;-249,9895;0,00;0,00;EUR
+2025-01-27;15:47:36;Executed;"SCALTm4YXSTWMNs";"Tesla";Security;Savings plan;US88160R1014;0,524;381,60;-199,9584;0,00;0,00;EUR
+2025-01-27;15:34:00;Executed;"SCALHQboQbMC4K7";"iShares Physical Gold ETC";Security;Savings plan;IE00B4ND3602;4,919;50,815;-249,9589;0,00;0,00;EUR
+2025-01-27;15:25:07;Executed;"SCALYHzuHMjznhP";"Alphabet A";Security;Savings plan;US02079K3059;1,092;183,10;-199,9452;0,00;0,00;EUR
+2025-01-27;15:17:45;Executed;"SCALtU48WcVvB2K";"NVIDIA";Security;Savings plan;US67066G1040;2,094;119,36;-249,9398;0,00;0,00;EUR
+2025-01-27;15:06:57;Executed;"SCALwtXTVgxX3t5";"Amundi MSCI World V (Acc)";Security;Savings plan;LU1781541179;5,243;19,0705;-99,9866;0,00;0,00;EUR
+2025-01-27;15:02:33;Executed;"SCALRHD5ACot8JP";"Intel Corp";Security;Savings plan;US4581401001;5,014;19,942;-99,9891;0,00;0,00;EUR
+2025-01-27;11:58:53;Cancelled;"SCALfnS3zfBGVz5";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-27;11:55:34;Executed;"SCAL5BJ7QUfpbQz";"NVIDIA";Security;Buy;US67066G1040;1;117,90;-117,90;0,99;0,00;EUR
+2025-01-27;11:50:25;Executed;"SCAL84yVDEMY4Ew";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;3;36,886;-110,658;0,99;0,00;EUR
+2025-01-27;10:51:08;Cancelled;"SCALjnS5N8oTRu7";"NVIDIA";Security;Buy;US67066G1040;0;0,00;0,00;0,00;0,00;EUR
+2025-01-27;10:44:54;Executed;"SCALPUbBxUsy3PV";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;5;43,974;-219,87;0,99;0,00;EUR
+2025-01-24;01:00:00;Executed;"TXDTOPZNTZVUXWIXVTUUFJ";"Scalable Capital Broker 7x savings plan";Cash;Deposit;;;;1.350,00;0,00;;EUR
+2025-01-22;19:38:27;Executed;"SCALqCp4nqzpJfJ";"Leverage Shares 3x Long Artificial Intelligence (Acc)";Security;Sell;XS2779861751;3;30,78;92,34;0,99;0,00;EUR
+2025-01-22;19:38:11;Cancelled;"SCALBMnJtfmDYpu";"Leverage Shares 3x Long Artificial Intelligence (Acc)";Security;Sell;XS2779861751;0;0,00;0,00;0,00;0,00;EUR
+2025-01-22;12:17:02;Cancelled;"SCAL4SGbZxtW4Rp";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-20;13:48:03;Executed;"SCALvjRtaHn1dvf";"iShares MSCI Global Semiconductors (Acc)";Security;Savings plan;IE000I8KRLL9;13,397;7,464;-99,9952;0,00;0,00;EUR
+2025-01-17;01:00:00;Executed;"N7BMLMVEPYRCZT9SRNIPWV";"Scalable Capital Broker savings plan";Cash;Deposit;;;;100,00;0,00;;EUR
+2025-01-14;18:30:42;Executed;"SCALT3dmZJuDyov";"NVIDIA";Security;Buy;US67066G1040;5;127,44;-637,20;0,99;0,00;EUR
+2025-01-14;01:00:00;Executed;"950107601";"Transferred with Deutsche Bank Mobile";Cash;Deposit;;;;1.500,00;0,00;;EUR
+2025-01-13;15:09:09;Executed;"SCALYt8P6rrPX7q";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;5;48,998;-244,99;0,99;0,00;EUR
+2025-01-13;14:06:25;Executed;"SCALY3NAuAoZ5sE";"iShares S&P 500 Information Technology Sector (Acc)";Security;Savings plan;IE00B3WJKG14;3,112;32,125;-99,973;0,00;0,00;EUR
+2025-01-13;13:53:24;Executed;"SCALFmnGDUJY9hF";"Apple";Security;Savings plan;US0378331005;0,867;230,55;-199,8868;0,00;0,00;EUR
+2025-01-13;13:39:33;Executed;"SCALVvEsU6VqRv8";"iShares Physical Silver ETC (Acc)";Security;Savings plan;IE00B4NCWG09;8,992;27,802;-249,9955;0,00;0,00;EUR
+2025-01-13;13:26:35;Executed;"SCALiK2A98RAWVv";"Taiwan Semiconductor Manufact. ADR";Security;Savings plan;US8740391003;1,013;197,40;-199,9661;0,00;0,00;EUR
+2025-01-13;10:28:08;Cancelled;"SCALTp8Joxf7DpT";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-13;09:43:04;Cancelled;"SCALipVmZ3CVgvB";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-13;09:42:54;Cancelled;"SCALNkwrbUzZ886";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-13;09:42:40;Cancelled;"SCALeVmZpK2pa6B";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-13;01:00:00;Executed;"WWEK 36921018";"Taiwan Semiconductor Manufact. ADR";Cash;Distribution;US8740391003;;;1,96;0,00;0,00;EUR
+2025-01-10;15:37:44;Executed;"SCALhXUbsBby1aS";"iShares Blockchain Technology (Acc)";Security;Buy;IE000RDRMSD1;27;12,058;-325,5659;0,00;0,00;EUR
+2025-01-10;15:03:12;Cancelled;"SCALGYgkaqJzf2m";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-10;14:23:32;Executed;"SCALoL3f6QnVvFH";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;5;57,00;-285,00;0,99;0,00;EUR
+2025-01-10;11:50:28;Executed;"SCALteRrNzYE5pQ";"Invesco MSCI World (Acc)";Security;Savings plan;IE00B60SX394;0,975;112,76;-109,941;0,00;0,00;EUR
+2025-01-10;11:17:40;Executed;"SCALk3jARMhxtqz";"Xtrackers Artificial Intelligence & Big Data (Acc)";Security;Savings plan;IE00BGV5VN51;0,73;136,90;-99,937;0,00;0,00;EUR
+2025-01-10;11:14:32;Executed;"SCALLBAvpEZBviu";"Leverage Shares 3x Long Artificial Intelligence (Acc)";Security;Savings plan;XS2779861751;3,796;26,34;-99,9866;0,00;0,00;EUR
+2025-01-10;11:09:08;Executed;"SCALL8pNACktnNZ";"Advanced Micro Devices";Security;Savings plan;US0079031078;1,298;115,54;-149,9709;0,00;0,00;EUR
+2025-01-10;11:06:42;Executed;"SCALe9hFPzgsyhb";"Vanguard S&P 500 (Dist)";Security;Savings plan;IE00B3XXRP09;2,301;108,62;-249,9346;0,00;0,00;EUR
+2025-01-10;01:00:00;Executed;"KFMFUTFCHV91SWHTBFB1KD";"Scalable Capital Broker 4x savings plan";Cash;Deposit;;;;750,00;0,00;;EUR
+2025-01-09;01:00:00;Executed;"4WY263R1E6YSDSGAZRJEUG";"Scalable Capital Broker 5x savings plan";Cash;Deposit;;;;710,00;0,00;;EUR
+2025-01-07;16:38:23;Cancelled;"SCALVtdz8noCsex";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-07;16:37:59;Executed;"SCALR6YQvzXHUug";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;5;63,725;-318,625;0,99;0,00;EUR
+2025-01-07;16:01:15;Executed;"SCALmsxfQbuC8Vh";"Leverage Shares 3x NVIDIA";Security;Buy;XS2820604770;10;68,57;-685,70;0,99;0,00;EUR
+2025-01-07;16:00:26;Cancelled;"SCALNggsmBz5pz6";"NVIDIA";Security;Buy;US67066G1040;0;0,00;0,00;0,00;0,00;EUR
+2025-01-07;14:17:58;Executed;"SCAL4JPyNVmdXbT";"Microsoft";Security;Savings plan;US5949181045;0,847;412,75;-349,5992;0,00;0,00;EUR
+2025-01-07;13:31:42;Executed;"SCALeWxhDxJXxGN";"ASML Holding";Security;Savings plan;NL0010273215;0,268;745,30;-199,7404;0,00;0,00;EUR
+2025-01-07;11:15:28;Cancelled;"SCAL3kT7hvdATVN";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-06;16:57:54;Executed;"SCALYVycdRsjaoh";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;2;76,81;153,62;0,99;0,00;EUR
+2025-01-06;15:59:52;Executed;"SCALQGFc1FLLyQQ";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;8;74,055;592,44;0,99;0,00;EUR
+2025-01-06;11:46:40;Executed;"SCALRJhZB8AdkW5";"Broadcom";Security;Savings plan;US11135F1012;0,438;228,05;-99,8859;0,00;0,00;EUR
+2025-01-06;11:45:09;Executed;"SCALspotbD8ddwV";"Intel Corp";Security;Savings plan;US4581401001;4,981;20,075;-99,9935;0,00;0,00;EUR
+2025-01-06;11:31:02;Executed;"SCALs2Miz8KMk8K";"WisdomTree S&P 500 5x Daily Leveraged";Security;Savings plan;XS2771643025;2,961;33,77;-99,9929;0,00;0,00;EUR
+2025-01-06;11:24:07;Executed;"SCAL4teWjPPN4qN";"Xtrackers MSCI World (Acc)";Security;Savings plan;IE00BJ0KDQ92;1,04;115,365;-119,9796;0,00;0,00;EUR
+2025-01-06;11:19:18;Executed;"SCALifDft8hU3nF";"Meta Platforms A";Security;Savings plan;US30303M1027;0,17;587,80;-99,926;0,00;0,00;EUR
+2025-01-06;09:47:01;Cancelled;"SCAL63L9j5ii9dC";"Leverage Shares 3x NVIDIA";Security;Sell;XS2820604770;0;0,00;0,00;0,00;0,00;EUR
+2025-01-06;01:00:00;Executed;"VT4YUGZNWLEF348D9YPSMA";"Scalable Capital Broker 2x savings plan";Cash;Deposit;;;;550,00;0,00;;EUR
+2025-01-03;01:00:00;Executed;"2RQN7N66FKJNJB4LVLRFAQ";"Scalable Capital Broker 5x savings plan";Cash;Deposit;;;;520,00;0,00;;EUR
+2025-01-02;15:32:20;Executed;"SCALkp1WLPnG5gK";"Amazon.com";Security;Sell;US0231351067;1;217,00;217,00;0,99;0,00;EUR
+2025-01-02;11:59:52;Executed;"SCALPdbYUxckKGY";"Apple";Security;Savings plan;US0378331005;0,823;242,90;-199,9067;0,00;0,00;EUR
+2025-01-02;11:59:23;Executed;"SCALQWP9e8kgzh9";"NVIDIA";Security;Savings plan;US67066G1040;1,517;131,82;-199,9709;0,00;0,00;EUR
+2025-01-02;11:39:28;Executed;"SCALMT95Q9FzF7b";"iShares Core S&P 500 (Acc)";Security;Savings plan;IE00B5BMR087;0,411;607,88;-249,8386;0,00;0,00;EUR
+2025-01-02;11:11:06;Executed;"SCALMd7nStt81YQ";"Amazon.com";Security;Savings plan;US0231351067;0,933;214,20;-199,8486;0,00;0,00;EUR
+2025-01-02;11:05:03;Executed;"SCALUcc5v3xpS1N";"Xtrackers Nasdaq 100 (Acc)";Security;Savings plan;IE00BMFKG444;2,117;47,23;-99,9859;0,00;0,00;EUR
